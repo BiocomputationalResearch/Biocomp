@@ -1,0 +1,22 @@
+
+ATOM    485  OE2 GLU A  56      -5.046  -9.322  -8.890  0.25 25.88           O  
+HETATM 2801  O1B 6U4 A 201      -5.923  -5.483  -9.601  1.00 17.67           O  
+HETATM 2805  O2A 6U4 A 201      -6.096  -5.918 -12.705  1.00 20.92           O  
+HETATM 2944    O HOH A 382      -5.315 -10.107 -12.368  1.00 32.01           O  
+ATOM    311    O GLY A  36      -2.955  -8.732 -10.973  1.00 12.54           O  
+CONECT  485 2801                                                                
+CONECT 2801  485                                                                
+CONECT 2801 2805                                                                
+CONECT 2805 2801                                                                
+CONECT 2805 2944                                                                
+CONECT 2944 2805                                                                
+CONECT 2944  485                                                                
+CONECT  485 2944                                                                
+CONECT  311  485                                                                
+CONECT  485  311                                                                
+CONECT  311 2801                                                                
+CONECT 2801  311                                                                
+CONECT  311 2805                                                                
+CONECT 2805  311                                                                
+CONECT  311 2944                                                                
+CONECT 2944  311                                                                

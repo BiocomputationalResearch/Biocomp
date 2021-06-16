@@ -1,0 +1,71 @@
+HEADER     PROGRAM NAME: StructureDeviation VERSION: 1.1
+TITLE      Deviation Report for Computation of Structural Deviations of Two Trigonal Planar NA ION Binding Sites
+REMARK     1
+REMARK     1  Standard Triangle:                   
+REMARK     1  Molecule Type of Standard Trigonal Planar: protein
+REMARK     1  Circumcentre of transformed triangle: (-0.000, -0.000, -0.000)          
+REMARK     1  Circumradius of transformed triangle: 2.056
+REMARK     1  Distance between circumcentre & metal ion: 1.606       
+REMARK     1  Distance between Centre of Mass & metal ion: 1.606       
+REMARK     1
+REMARK     1  Distances of Atoms from Circumcentre of Trigonal Planar:
+DISTCR 382    2.056
+DISTCR 394    2.056
+DISTCR 953    2.056
+REMARK     1  Distances of Atoms-Atoms:                         
+DISTRR 382 394    3.477
+DISTRR 394 953    3.418
+DISTRR 953 382    3.757
+REMARK     1  Angles made by two atoms with Circumcentre of Trigonal Planar:
+ANGLEC 382 394  115.446
+ANGLEC 394 953  112.433
+ANGLEC 953 382  131.976
+REMARK     1  Angles made by two atoms with another atom of Trigonal Planar:
+ANGLEV 394 382 953   56.217
+ANGLEV 382 394 953   65.988
+ANGLEV 394 953 382   57.723
+REMARK     2
+REMARK     2  Comparable Triangle:
+REMARK     1  Molecule Type of Comparable Trigonal Planar: protein
+REMARK     2  Circumcentre of transformed triangle: (0.000, -0.000, 0.000)   
+REMARK     2  Circumradius of transformed triangle: 2.408
+REMARK     2  Binding Atoms of Comparable Site are Far Apart as Compared to Standard Site
+REMARK     2  Size of This Site is smaller than the Standard Site
+REMARK     2  Distance between Circumcentre & Metal ion: 1.434
+REMARK     2  Distance between Centre of Mass & metal ion: 86.553       
+REMARK     2  Distances of Atoms from  Circumcentre of Trigonal Planar:
+DISTCR 11054    2.408
+DISTCR 5581    2.408
+DISTCR 11077    2.408
+REMARK     2  Distances of Atoms-Atoms:
+DISTRR 11054 5581    4.738
+DISTRR 5581 11077    2.802
+DISTRR 11077 11054    4.357
+REMARK     2  Angles made by two atoms with  Circumcentre of Trigonal Planar:
+ANGLEC 11054 5581  159.234
+ANGLEC 5581 11077   71.126
+ANGLEC 11077 11054  129.495
+REMARK     2  Angles made by two atoms with  another atom of Triangle:
+ANGLEV 5581 11054 11077   35.563
+ANGLEV 11054 5581 11077   64.748
+ANGLEV 5581 11077 11054   79.617
+REMARK     3
+REMARK     3  Deviation Results of Comparable Triangle from Standard Triangle:
+REMARK     3  Distance Differences between Circumcentre & metal ion NA: 0.000  
+REMARK     3  Distance Differences from Circumcentre to any Atom NA: -0.352  
+REMARK     3  RMSE for Distance Deviation from Circumcentre to any Atom NA: 0.352   
+REMARK     3  Distance Differences of Atoms-Atoms: 
+REMARK     3  SIDE 1: 0.844    
+REMARK     3  SIDE 2: 6.199    
+REMARK     3  SIDE 3: 0.213    
+REMARK     3  RMSE for Atom-Atom Distance NA: 1.807   
+REMARK     3  Differences of Angles Between Two Atoms with Circumcentre:
+REMARK     3  Angle 1: -43.789   
+REMARK     3  Angle 2: 41.308   
+REMARK     3  Angle 3: 2.481   
+REMARK     3  RMSE for Angle Differences CC NA: 17.392   
+REMARK     3  Differences of Angles Between Two Atoms with Another:
+REMARK     3  Angle 1: 20.654   
+REMARK     3  Angle 2: 1.240   
+REMARK     3  Angle 3: -21.894   
+REMARK     3  RMSE for Angle Differences AA NA: 8.696   

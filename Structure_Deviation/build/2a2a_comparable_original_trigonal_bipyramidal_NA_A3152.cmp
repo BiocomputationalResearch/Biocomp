@@ -1,0 +1,24 @@
+
+HETATM10816    O HOH B4029     -25.396   3.184   4.888  1.00 27.39           O  
+HETATM10224    O HOH A3353     -23.876   6.322   2.800  1.00 26.53           O  
+HETATM10577    O HOH B3790     -22.136   4.969   5.897  1.00 20.42           O  
+ATOM   1591    O ASN A 190     -22.572   3.010   3.255  1.00 23.53           O  
+ATOM   4125    O ASN B 190     -24.921   6.587   5.935  1.00 22.63           O  
+CONECT1081610224                                                                
+CONECT1022410816                                                                
+CONECT1022410577                                                                
+CONECT1057710224                                                                
+CONECT1057710816                                                                
+CONECT1081610577                                                                
+CONECT 159110816                                                                
+CONECT10816 1591                                                                
+CONECT 159110224                                                                
+CONECT10224 1591                                                                
+CONECT 159110577                                                                
+CONECT10577 1591                                                                
+CONECT 412510816                                                                
+CONECT10816 4125                                                                
+CONECT 412510224                                                                
+CONECT10224 4125                                                                
+CONECT 412510577                                                                
+CONECT10577 4125                                                                

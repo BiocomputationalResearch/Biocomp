@@ -1,0 +1,319 @@
+HEADER     PROGRAM NAME: StructureDeviation  VERSION: 1.1
+TITLE      General Report for Statistics about Protein Atoms
+Protein Name: 5nj9
+REMARK     1
+REMARK     1  Total No. of Metal Ions Present: 6
+REMARK     1	Name & No. of Each Type of Metal Atom:
+REMARK     1		No. of Each Metal Site Present NA: 4
+REMARK     1		No. of Each Metal Site Present ZN: 2
+REMARK     2
+REMARK     2  No. of NA Sites Present: 4
+REMARK     2
+REMARK     2 NA Binding Site 1
+REMARK     2	Sr. No.	Chain Name	Residue Name	Residue No.	Atom Name
+REMARK     2	14861			A			NA			504			NA
+REMARK     2	Coordination Number NA: 5
+REMARK     2	NA Binding Site of protein
+REMARK     2	Shape of the NA Binding Site: tetragonal_pyramidal
+REMARK     2
+REMARK     2
+REMARK     2	No Water Molecule Present in this NA Site, Shape tetragonal_pyramidal
+REMARK     2
+REMARK     2	Inner Coordinating Sphere for NA_14861:
+REMARK     2	Direct Ligand Atoms for NA_14861:
+REMARK     2	Molecule Type		Sr. No.	Chain Name	Residue Name		Residue Type	Residue No.	Atom Name		Distance from NA
+REMARK     2 	water_molecule		15480			A			HOH			non_stand			1105			O		   2.287
+REMARK     2 	water_molecule		15390			A			HOH			non_stand			1021			O		   2.555
+REMARK     2 	amino_acid		960			A			SER			standard			117			OG		   2.415
+REMARK     2 	water_molecule		15344			A			HOH			non_stand			978			O		   2.428
+REMARK     2 	water_molecule		15389			A			HOH			non_stand			1020			O		   2.454
+
+REMARK     2	Inter-Atomic Distances in NA_14861 Site:
+
+REMARK     2	In NA (Distance of, Shape tetragonal_pyramidal)_14861, O_15480 to O_15390:    3.109
+REMARK     2	In NA (Distance of, Shape tetragonal_pyramidal)_14861, O_15480 to OG_960:    4.689
+REMARK     2	In NA (Distance of, Shape tetragonal_pyramidal)_14861, O_15480 to O_15344:    3.480
+REMARK     2	In NA (Distance of, Shape tetragonal_pyramidal)_14861, O_15480 to O_15389:    3.315
+REMARK     2	In NA (Distance of, Shape tetragonal_pyramidal)_14861, O_15390 to OG_960:    3.616
+REMARK     2	In NA (Distance of, Shape tetragonal_pyramidal)_14861, O_15390 to O_15344:    3.575
+REMARK     2	In NA (Distance of, Shape tetragonal_pyramidal)_14861, O_15390 to O_15389:    3.292
+REMARK     2	In NA (Distance of, Shape tetragonal_pyramidal)_14861, OG_960 to O_15344:    3.132
+REMARK     2	In NA (Distance of, Shape tetragonal_pyramidal)_14861, OG_960 to O_15389:    3.583
+REMARK     2	In NA (Distance of, Shape tetragonal_pyramidal)_14861, O_15344 to O_15389:    4.870
+
+REMARK     2	In NA (Mean Inter-Atomic Distance, Shape tetragonal_pyramidal)_14861:    3.666
+
+REMARK     2	Angles Between Two Atoms Made with Metal in NA_14861 Site:
+
+REMARK     2	In NA (Angle Between, Shape tetragonal_pyramidal)_14861, O_15480 and O_15390 with NA_14861:   79.675
+REMARK     2	In NA (Angle Between, Shape tetragonal_pyramidal)_14861, O_15480 and OG_960 with NA_14861:  171.706
+REMARK     2	In NA (Angle Between, Shape tetragonal_pyramidal)_14861, O_15480 and O_15344 with NA_14861:   95.053
+REMARK     2	In NA (Angle Between, Shape tetragonal_pyramidal)_14861, O_15480 and O_15389 with NA_14861:   88.648
+REMARK     2	In NA (Angle Between, Shape tetragonal_pyramidal)_14861, O_15390 and OG_960 with NA_14861:   93.311
+REMARK     2	In NA (Angle Between, Shape tetragonal_pyramidal)_14861, O_15390 and O_15344 with NA_14861:   91.626
+REMARK     2	In NA (Angle Between, Shape tetragonal_pyramidal)_14861, O_15390 and O_15389 with NA_14861:   82.118
+REMARK     2	In NA (Angle Between, Shape tetragonal_pyramidal)_14861, OG_960 and O_15344 with NA_14861:   80.573
+REMARK     2	In NA (Angle Between, Shape tetragonal_pyramidal)_14861, OG_960 and O_15389 with NA_14861:   94.730
+REMARK     2	In NA (Angle Between, Shape tetragonal_pyramidal)_14861, O_15344 and O_15389 with NA_14861:  172.015
+
+REMARK     2	In NA (Mean Angle Atom-NA-Atom, Shape tetragonal_pyramidal)_14861:  104.945
+
+REMARK     2	Equatorial (Planar) Atom Nos. in NA_14861 Site: 15480, 960, 15344, 15389, 
+
+REMARK     2	Axial (Non-Planar) Atom Nos. in NA_14861 Site: 15390, 
+REMARK     3
+REMARK     3 NA Binding Site 2
+REMARK     3	Sr. No.	Chain Name	Residue Name	Residue No.	Atom Name
+REMARK     3	14894			B			NA			706			NA
+REMARK     3	Coordination Number NA: 5
+REMARK     3	NA Binding Site of protein
+REMARK     3	Shape of the NA Binding Site: trigonal_bipyramidal
+REMARK     3
+REMARK     3
+REMARK     3	No Water Molecule Present in this NA Site, Shape trigonal_bipyramidal
+REMARK     3
+REMARK     3	Inner Coordinating Sphere for NA_14894:
+REMARK     3	Direct Ligand Atoms for NA_14894:
+REMARK     3	Molecule Type		Sr. No.	Chain Name	Residue Name		Residue Type	Residue No.	Atom Name		Distance from NA
+REMARK     3 	water_molecule		15926			B			HOH			non_stand			1197			O		   2.317
+REMARK     3 	amino_acid		4005			B			SER			standard			30			O		   2.383
+REMARK     3 	water_molecule		15900			B			HOH			non_stand			1175			O		   2.503
+REMARK     3 	water_molecule		15681			B			HOH			non_stand			966			O		   2.464
+REMARK     3 	amino_acid		4033			B			SER			standard			33			O		   2.450
+
+REMARK     3	Inter-Atomic Distances in NA_14894 Site:
+
+REMARK     3	In NA (Distance of, Shape trigonal_bipyramidal)_14894, O_15926 to O_4005:    3.720
+REMARK     3	In NA (Distance of, Shape trigonal_bipyramidal)_14894, O_15926 to O_15900:    4.131
+REMARK     3	In NA (Distance of, Shape trigonal_bipyramidal)_14894, O_15926 to O_15681:    4.750
+REMARK     3	In NA (Distance of, Shape trigonal_bipyramidal)_14894, O_15926 to O_4033:    3.474
+REMARK     3	In NA (Distance of, Shape trigonal_bipyramidal)_14894, O_4005 to O_15900:    4.534
+REMARK     3	In NA (Distance of, Shape trigonal_bipyramidal)_14894, O_4005 to O_15681:    2.780
+REMARK     3	In NA (Distance of, Shape trigonal_bipyramidal)_14894, O_4005 to O_4033:    3.241
+REMARK     3	In NA (Distance of, Shape trigonal_bipyramidal)_14894, O_15900 to O_15681:    2.714
+REMARK     3	In NA (Distance of, Shape trigonal_bipyramidal)_14894, O_15900 to O_4033:    3.293
+REMARK     3	In NA (Distance of, Shape trigonal_bipyramidal)_14894, O_15681 to O_4033:    2.964
+
+REMARK     3	In NA (Mean Inter-Atomic Distance, Shape trigonal_bipyramidal)_14894:    3.560
+
+REMARK     3	Angles Between Two Atoms Made with Metal in NA_14894 Site:
+
+REMARK     3	In NA (Angle Between, Shape trigonal_bipyramidal)_14894, O_15926 and O_4005 with NA_14894:  104.590
+REMARK     3	In NA (Angle Between, Shape trigonal_bipyramidal)_14894, O_15926 and O_15900 with NA_14894:  117.855
+REMARK     3	In NA (Angle Between, Shape trigonal_bipyramidal)_14894, O_15926 and O_15681 with NA_14894:  166.766
+REMARK     3	In NA (Angle Between, Shape trigonal_bipyramidal)_14894, O_15926 and O_4033 with NA_14894:   93.496
+REMARK     3	In NA (Angle Between, Shape trigonal_bipyramidal)_14894, O_4005 and O_15900 with NA_14894:  136.156
+REMARK     3	In NA (Angle Between, Shape trigonal_bipyramidal)_14894, O_4005 and O_15681 with NA_14894:   69.947
+REMARK     3	In NA (Angle Between, Shape trigonal_bipyramidal)_14894, O_4005 and O_4033 with NA_14894:   84.201
+REMARK     3	In NA (Angle Between, Shape trigonal_bipyramidal)_14894, O_15900 and O_15681 with NA_14894:   66.218
+REMARK     3	In NA (Angle Between, Shape trigonal_bipyramidal)_14894, O_15900 and O_4033 with NA_14894:   83.280
+REMARK     3	In NA (Angle Between, Shape trigonal_bipyramidal)_14894, O_15681 and O_4033 with NA_14894:   74.164
+
+REMARK     3	In NA (Mean Angle Atom-NA-Atom, Shape trigonal_bipyramidal)_14894:   99.667
+
+REMARK     3	Equatorial (Planar) Atom Nos. in NA_14894 Site: 15926, 4005, 15900, 
+
+REMARK     3	Axial (Non-Planar) Atom Nos. in NA_14894 Site: 15681, 4033, 
+REMARK     4
+REMARK     4 NA Binding Site 3
+REMARK     4	Sr. No.	Chain Name	Residue Name	Residue No.	Atom Name
+REMARK     4	14912			C			NA			504			NA
+REMARK     4	Coordination Number NA: 6
+REMARK     4	NA Binding Site of protein
+REMARK     4	Shape of the NA Binding Site: tetragonal_bipyramidal
+REMARK     4
+REMARK     4
+REMARK     4	No Water Molecule Present in this NA Site, Shape tetragonal_bipyramidal
+REMARK     4
+REMARK     4	Inner Coordinating Sphere for NA_14912:
+REMARK     4	Direct Ligand Atoms for NA_14912:
+REMARK     4	Molecule Type		Sr. No.	Chain Name	Residue Name		Residue Type	Residue No.	Atom Name		Distance from NA
+REMARK     4 	water_molecule		16446			C			HOH			non_stand			974			O		   2.375
+REMARK     4 	water_molecule		16441			C			HOH			non_stand			970			O		   2.385
+REMARK     4 	amino_acid		7473			C			ASN			standard			14			OD1		   2.688
+REMARK     4 	amino_acid		8060			C			ILE			standard			84			O		   2.416
+REMARK     4 	water_molecule		16464			C			HOH			non_stand			990			O		   2.212
+REMARK     4 	water_molecule		16267			C			HOH			non_stand			814			O		   2.659
+
+REMARK     4	Inter-Atomic Distances in NA_14912 Site:
+
+REMARK     4	In NA (Distance of, Shape tetragonal_bipyramidal)_14912, O_16446 to O_16441:    3.724
+REMARK     4	In NA (Distance of, Shape tetragonal_bipyramidal)_14912, O_16446 to OD1_7473:    3.232
+REMARK     4	In NA (Distance of, Shape tetragonal_bipyramidal)_14912, O_16446 to O_8060:    4.762
+REMARK     4	In NA (Distance of, Shape tetragonal_bipyramidal)_14912, O_16446 to O_16464:    3.354
+REMARK     4	In NA (Distance of, Shape tetragonal_bipyramidal)_14912, O_16446 to O_16267:    3.449
+REMARK     4	In NA (Distance of, Shape tetragonal_bipyramidal)_14912, O_16441 to OD1_7473:    3.788
+REMARK     4	In NA (Distance of, Shape tetragonal_bipyramidal)_14912, O_16441 to O_8060:    3.208
+REMARK     4	In NA (Distance of, Shape tetragonal_bipyramidal)_14912, O_16441 to O_16464:    3.212
+REMARK     4	In NA (Distance of, Shape tetragonal_bipyramidal)_14912, O_16441 to O_16267:    5.024
+REMARK     4	In NA (Distance of, Shape tetragonal_bipyramidal)_14912, OD1_7473 to O_8060:    3.611
+REMARK     4	In NA (Distance of, Shape tetragonal_bipyramidal)_14912, OD1_7473 to O_16464:    4.888
+REMARK     4	In NA (Distance of, Shape tetragonal_bipyramidal)_14912, OD1_7473 to O_16267:    3.774
+REMARK     4	In NA (Distance of, Shape tetragonal_bipyramidal)_14912, O_8060 to O_16464:    3.459
+REMARK     4	In NA (Distance of, Shape tetragonal_bipyramidal)_14912, O_8060 to O_16267:    3.527
+REMARK     4	In NA (Distance of, Shape tetragonal_bipyramidal)_14912, O_16464 to O_16267:    3.343
+
+REMARK     4	In NA (Mean Inter-Atomic Distance, Shape tetragonal_bipyramidal)_14912:    3.757
+
+REMARK     4	Angles Between Two Atoms Made with Metal in NA_14912 Site:
+
+REMARK     4	In NA (Angle Between, Shape tetragonal_bipyramidal)_14912, O_16446 and O_16441 with NA_14912:  102.948
+REMARK     4	In NA (Angle Between, Shape tetragonal_bipyramidal)_14912, O_16446 and OD1_7473 with NA_14912:   79.057
+REMARK     4	In NA (Angle Between, Shape tetragonal_bipyramidal)_14912, O_16446 and O_8060 with NA_14912:  167.484
+REMARK     4	In NA (Angle Between, Shape tetragonal_bipyramidal)_14912, O_16446 and O_16464 with NA_14912:   93.899
+REMARK     4	In NA (Angle Between, Shape tetragonal_bipyramidal)_14912, O_16446 and O_16267 with NA_14912:   86.249
+REMARK     4	In NA (Angle Between, Shape tetragonal_bipyramidal)_14912, O_16441 and OD1_7473 with NA_14912:   96.399
+REMARK     4	In NA (Angle Between, Shape tetragonal_bipyramidal)_14912, O_16441 and O_8060 with NA_14912:   83.812
+REMARK     4	In NA (Angle Between, Shape tetragonal_bipyramidal)_14912, O_16441 and O_16464 with NA_14912:   88.540
+REMARK     4	In NA (Angle Between, Shape tetragonal_bipyramidal)_14912, O_16441 and O_16267 with NA_14912:  169.568
+REMARK     4	In NA (Angle Between, Shape tetragonal_bipyramidal)_14912, OD1_7473 and O_8060 with NA_14912:   89.861
+REMARK     4	In NA (Angle Between, Shape tetragonal_bipyramidal)_14912, OD1_7473 and O_16464 with NA_14912:  172.091
+REMARK     4	In NA (Angle Between, Shape tetragonal_bipyramidal)_14912, OD1_7473 and O_16267 with NA_14912:   89.763
+REMARK     4	In NA (Angle Between, Shape tetragonal_bipyramidal)_14912, O_8060 and O_16464 with NA_14912:   96.611
+REMARK     4	In NA (Angle Between, Shape tetragonal_bipyramidal)_14912, O_8060 and O_16267 with NA_14912:   87.875
+REMARK     4	In NA (Angle Between, Shape tetragonal_bipyramidal)_14912, O_16464 and O_16267 with NA_14912:   86.113
+
+REMARK     4	In NA (Mean Angle Atom-NA-Atom, Shape tetragonal_bipyramidal)_14912:  106.018
+
+REMARK     4	Equatorial (Planar) Atom Nos. in NA_14912 Site: 16446, 7473, 8060, 16464, 
+
+REMARK     4	Axial (Non-Planar) Atom Nos. in NA_14912 Site: 16441, 16267, 
+REMARK     5
+REMARK     5 NA Binding Site 4
+REMARK     5	Sr. No.	Chain Name	Residue Name	Residue No.	Atom Name
+REMARK     5	14945			D			NA			706			NA
+REMARK     5	Coordination Number NA: 5
+REMARK     5	NA Binding Site of protein
+REMARK     5	Shape of the NA Binding Site: trigonal_bipyramidal
+REMARK     5
+REMARK     5
+REMARK     5	No Water Molecule Present in this NA Site, Shape trigonal_bipyramidal
+REMARK     5
+REMARK     5	Inner Coordinating Sphere for NA_14945:
+REMARK     5	Direct Ligand Atoms for NA_14945:
+REMARK     5	Molecule Type		Sr. No.	Chain Name	Residue Name		Residue Type	Residue No.	Atom Name		Distance from NA
+REMARK     5 	water_molecule		16973			D			HOH			non_stand			1181			O		   2.964
+REMARK     5 	amino_acid		11335			D			SER			standard			30			O		   2.378
+REMARK     5 	water_molecule		16996			D			HOH			non_stand			1202			O		   2.326
+REMARK     5 	amino_acid		11366			D			SER			standard			33			O		   2.445
+REMARK     5 	water_molecule		17008			D			HOH			non_stand			1212			O		   2.339
+
+REMARK     5	Inter-Atomic Distances in NA_14945 Site:
+
+REMARK     5	In NA (Distance of, Shape trigonal_bipyramidal)_14945, O_16973 to O_11335:    3.502
+REMARK     5	In NA (Distance of, Shape trigonal_bipyramidal)_14945, O_16973 to O_16996:    5.244
+REMARK     5	In NA (Distance of, Shape trigonal_bipyramidal)_14945, O_16973 to O_11366:    3.252
+REMARK     5	In NA (Distance of, Shape trigonal_bipyramidal)_14945, O_16973 to O_17008:    4.053
+REMARK     5	In NA (Distance of, Shape trigonal_bipyramidal)_14945, O_11335 to O_16996:    3.745
+REMARK     5	In NA (Distance of, Shape trigonal_bipyramidal)_14945, O_11335 to O_11366:    3.227
+REMARK     5	In NA (Distance of, Shape trigonal_bipyramidal)_14945, O_11335 to O_17008:    4.713
+REMARK     5	In NA (Distance of, Shape trigonal_bipyramidal)_14945, O_16996 to O_11366:    3.478
+REMARK     5	In NA (Distance of, Shape trigonal_bipyramidal)_14945, O_16996 to O_17008:    2.851
+REMARK     5	In NA (Distance of, Shape trigonal_bipyramidal)_14945, O_11366 to O_17008:    3.671
+
+REMARK     5	In NA (Mean Inter-Atomic Distance, Shape trigonal_bipyramidal)_14945:    3.774
+
+REMARK     5	Angles Between Two Atoms Made with Metal in NA_14945 Site:
+
+REMARK     5	In NA (Angle Between, Shape trigonal_bipyramidal)_14945, O_16973 and O_11335 with NA_14945:   81.101
+REMARK     5	In NA (Angle Between, Shape trigonal_bipyramidal)_14945, O_16973 and O_16996 with NA_14945:  164.647
+REMARK     5	In NA (Angle Between, Shape trigonal_bipyramidal)_14945, O_16973 and O_11366 with NA_14945:   73.184
+REMARK     5	In NA (Angle Between, Shape trigonal_bipyramidal)_14945, O_16973 and O_17008 with NA_14945:   98.997
+REMARK     5	In NA (Angle Between, Shape trigonal_bipyramidal)_14945, O_11335 and O_16996 with NA_14945:  105.502
+REMARK     5	In NA (Angle Between, Shape trigonal_bipyramidal)_14945, O_11335 and O_11366 with NA_14945:   83.943
+REMARK     5	In NA (Angle Between, Shape trigonal_bipyramidal)_14945, O_11335 and O_17008 with NA_14945:  175.640
+REMARK     5	In NA (Angle Between, Shape trigonal_bipyramidal)_14945, O_16996 and O_11366 with NA_14945:   93.520
+REMARK     5	In NA (Angle Between, Shape trigonal_bipyramidal)_14945, O_16996 and O_17008 with NA_14945:   75.319
+REMARK     5	In NA (Angle Between, Shape trigonal_bipyramidal)_14945, O_11366 and O_17008 with NA_14945:  100.153
+
+REMARK     5	In NA (Mean Angle Atom-NA-Atom, Shape trigonal_bipyramidal)_14945:  105.201
+
+REMARK     5	Equatorial (Planar) Atom Nos. in NA_14945 Site: 16973, 11335, 17008, 
+
+REMARK     5	Axial (Non-Planar) Atom Nos. in NA_14945 Site: 16996, 11366, 
+REMARK     6
+REMARK     6  No. of ZN Sites Present: 2
+REMARK     6
+REMARK     6 ZN Binding Site 1
+REMARK     6	Sr. No.	Chain Name	Residue Name	Residue No.	Atom Name
+REMARK     6	14844			A			ZN			501			ZN
+REMARK     6	Coordination Number ZN: 4
+REMARK     6	ZN Binding Site of protein
+REMARK     6	Shape of the ZN Binding Site: tetrahedral
+REMARK     6
+REMARK     6
+REMARK     6	No Water Molecule Present in this ZN Site, Shape tetrahedral
+REMARK     6
+REMARK     6	Inner Coordinating Sphere for ZN_14844:
+REMARK     6	Direct Ligand Atoms for ZN_14844:
+REMARK     6	Molecule Type		Sr. No.	Chain Name	Residue Name		Residue Type	Residue No.	Atom Name		Distance from ZN
+REMARK     6 	amino_acid		2177			A			HIS			standard			267			NE2		   2.041
+REMARK     6 	amino_acid		14806			E			TYR			standard			604			OXT		   2.087
+REMARK     6 	amino_acid		3640			A			CYS			standard			454			SG		   2.282
+REMARK     6 	amino_acid		2142			A			HIS			standard			262			NE2		   2.075
+
+REMARK     6	Inter-Atomic Distances in ZN_14844 Site:
+
+REMARK     6	In ZN (Distance of, Shape tetrahedral)_14844, NE2_2177 to OXT_14806:    3.393
+REMARK     6	In ZN (Distance of, Shape tetrahedral)_14844, NE2_2177 to SG_3640:    3.454
+REMARK     6	In ZN (Distance of, Shape tetrahedral)_14844, NE2_2177 to NE2_2142:    3.309
+REMARK     6	In ZN (Distance of, Shape tetrahedral)_14844, OXT_14806 to SG_3640:    3.559
+REMARK     6	In ZN (Distance of, Shape tetrahedral)_14844, OXT_14806 to NE2_2142:    3.575
+REMARK     6	In ZN (Distance of, Shape tetrahedral)_14844, SG_3640 to NE2_2142:    3.463
+
+REMARK     6	In ZN (Mean Inter-Atomic Distance, Shape tetrahedral)_14844:    3.459
+
+REMARK     6	Angles Between Two Atoms Made with Metal in ZN_14844 Site:
+
+REMARK     6	In ZN (Angle Between, Shape tetrahedral)_14844, NE2_2177 and OXT_14806 with ZN_14844:  110.514
+REMARK     6	In ZN (Angle Between, Shape tetrahedral)_14844, NE2_2177 and SG_3640 with ZN_14844:  105.884
+REMARK     6	In ZN (Angle Between, Shape tetrahedral)_14844, NE2_2177 and NE2_2142 with ZN_14844:  106.951
+REMARK     6	In ZN (Angle Between, Shape tetrahedral)_14844, OXT_14806 and SG_3640 with ZN_14844:  108.989
+REMARK     6	In ZN (Angle Between, Shape tetrahedral)_14844, OXT_14806 and NE2_2142 with ZN_14844:  118.331
+REMARK     6	In ZN (Angle Between, Shape tetrahedral)_14844, SG_3640 and NE2_2142 with ZN_14844:  105.124
+
+REMARK     6	In ZN (Mean Angle Atom-ZN-Atom, Shape tetrahedral)_14844:  109.299
+
+REMARK     6	No Atoms More than 3 are coplanar (tetrahedral) in ZN_14844 Site: 
+REMARK     7
+REMARK     7 ZN Binding Site 2
+REMARK     7	Sr. No.	Chain Name	Residue Name	Residue No.	Atom Name
+REMARK     7	14895			C			ZN			501			ZN
+REMARK     7	Coordination Number ZN: 4
+REMARK     7	ZN Binding Site of protein
+REMARK     7	Shape of the ZN Binding Site: tetrahedral
+REMARK     7
+REMARK     7
+REMARK     7	No Water Molecule Present in this ZN Site, Shape tetrahedral
+REMARK     7
+REMARK     7	Inner Coordinating Sphere for ZN_14895:
+REMARK     7	Direct Ligand Atoms for ZN_14895:
+REMARK     7	Molecule Type		Sr. No.	Chain Name	Residue Name		Residue Type	Residue No.	Atom Name		Distance from ZN
+REMARK     7 	amino_acid		14842			F			TYR			standard			604			OXT		   2.011
+REMARK     7 	amino_acid		10971			C			CYS			standard			454			SG		   2.345
+REMARK     7 	amino_acid		9461			C			HIS			standard			262			NE2		   2.104
+REMARK     7 	amino_acid		9496			C			HIS			standard			267			NE2		   2.060
+
+REMARK     7	Inter-Atomic Distances in ZN_14895 Site:
+
+REMARK     7	In ZN (Distance of, Shape tetrahedral)_14895, OXT_14842 to SG_10971:    3.670
+REMARK     7	In ZN (Distance of, Shape tetrahedral)_14895, OXT_14842 to NE2_9461:    3.494
+REMARK     7	In ZN (Distance of, Shape tetrahedral)_14895, OXT_14842 to NE2_9496:    3.393
+REMARK     7	In ZN (Distance of, Shape tetrahedral)_14895, SG_10971 to NE2_9461:    3.501
+REMARK     7	In ZN (Distance of, Shape tetrahedral)_14895, SG_10971 to NE2_9496:    3.421
+REMARK     7	In ZN (Distance of, Shape tetrahedral)_14895, NE2_9461 to NE2_9496:    3.332
+
+REMARK     7	In ZN (Mean Inter-Atomic Distance, Shape tetrahedral)_14895:    3.468
+
+REMARK     7	Angles Between Two Atoms Made with Metal in ZN_14895 Site:
+
+REMARK     7	In ZN (Angle Between, Shape tetrahedral)_14895, OXT_14842 and SG_10971 with ZN_14895:  114.554
+REMARK     7	In ZN (Angle Between, Shape tetrahedral)_14895, OXT_14842 and NE2_9461 with ZN_14895:  116.148
+REMARK     7	In ZN (Angle Between, Shape tetrahedral)_14895, OXT_14842 and NE2_9496 with ZN_14895:  112.850
+REMARK     7	In ZN (Angle Between, Shape tetrahedral)_14895, SG_10971 and NE2_9461 with ZN_14895:  103.630
+REMARK     7	In ZN (Angle Between, Shape tetrahedral)_14895, SG_10971 and NE2_9496 with ZN_14895:  101.696
+REMARK     7	In ZN (Angle Between, Shape tetrahedral)_14895, NE2_9461 and NE2_9496 with ZN_14895:  106.231
+
+REMARK     7	In ZN (Mean Angle Atom-ZN-Atom, Shape tetrahedral)_14895:  109.185
+
+REMARK     7	No Atoms More than 3 are coplanar (tetrahedral) in ZN_14895 Site: 

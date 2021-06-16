@@ -1,0 +1,111 @@
+HEADER     PROGRAM NAME: StructureDeviation VERSION: 1.1
+TITLE      Deviation Report for Computation of Structural Deviations of Two Trigonal Bipyramidal MG ION Binding Sites
+REMARK     1
+REMARK     1  Standard Trigonal Bipyramid:                   
+REMARK     1  Molecule Type of Standard Trigonal Bipyramid: all_water
+REMARK     1
+REMARK     1  Distances of Atoms-Atoms:                         
+DISTRR 6013 5688    2.776
+DISTRR 6013 5785    4.209
+DISTRR 5688 5785    3.010
+DISTRR 6041 6013    3.270
+DISTRR 6041 5688    2.082
+DISTRR 6041 5785    2.496
+DISTRR 5865 6013    2.914
+DISTRR 5865 5688    2.757
+DISTRR 5865 5785    3.144
+REMARK     1  Angles made by two atoms with another atom of Trigonal Bipyramid:
+ANGLEV 5688 6013 5785   45.556
+ANGLEV 6013 5688 5785   93.204
+ANGLEV 6013 5785 5688   41.167
+ANGLEV 5688 6013 6041   39.205
+ANGLEV 5785 6013 6041   36.313
+ANGLEV 6013 5688 6041   83.274
+ANGLEV 5785 5688 6041   55.108
+ANGLEV 6013 5785 6041   50.877
+ANGLEV 5688 5785 6041   43.159
+ANGLEV 6013 6041 5688   57.448
+ANGLEV 6013 6041 5785   92.738
+ANGLEV 5688 6041 5785   81.660
+ANGLEV 5688 6013 5865   57.879
+ANGLEV 5785 6013 5865   48.275
+ANGLEV 6013 5688 5865   63.544
+ANGLEV 5785 5688 5865   65.872
+ANGLEV 6013 5785 5865   43.771
+ANGLEV 5688 5785 5865   53.151
+ANGLEV 6013 5865 5688   58.505
+ANGLEV 6013 5865 5785   87.882
+ANGLEV 5688 5865 5785   60.905
+REMARK     2
+REMARK     2  Comparable Tetragonal Plane:
+REMARK     1  Molecule Type of Comparable Trigonal Bipyramid: protein
+REMARK     2  Size of This Site is Larger than the Standard Site
+REMARK     2  Distances of Atoms from  Metal Ion:
+REMARK     2  Distances of Atoms-Atoms:
+DISTRR 4004 4298    3.110
+DISTRR 4004 2625    4.242
+DISTRR 4298 2625    2.925
+DISTRR 4335 4004    3.356
+DISTRR 4335 4298    3.335
+DISTRR 4335 2625    3.223
+DISTRR 4469 4004    2.887
+DISTRR 4469 4298    2.728
+DISTRR 4469 2625    3.220
+REMARK     2  Angles made by two atoms with another atom of Tetragonal Plane:
+ANGLEV 4298 4004 2625   43.565
+ANGLEV 4004 4298 2625   89.237
+ANGLEV 4004 2625 4298   47.125
+ANGLEV 4298 4004 4335   61.932
+ANGLEV 2625 4004 4335   48.465
+ANGLEV 4004 4298 4335   62.617
+ANGLEV 2625 4298 4335   61.538
+ANGLEV 4004 2625 4335   51.211
+ANGLEV 4298 2625 4335   65.466
+ANGLEV 4004 4335 4298   55.378
+ANGLEV 4004 4335 2625   80.251
+ANGLEV 4298 4335 2625   52.924
+ANGLEV 4298 4004 4469   53.935
+ANGLEV 2625 4004 4469   49.309
+ANGLEV 4004 4298 4469   58.814
+ANGLEV 2625 4298 4469   69.320
+ANGLEV 4004 2625 4469   42.826
+ANGLEV 4298 2625 4469   52.420
+ANGLEV 4004 4469 4298   67.179
+ANGLEV 4004 4469 2625   87.793
+ANGLEV 4298 4469 2625   58.187
+REMARK     3
+REMARK     3  Deviation Results of Comparable Trigonal Bipyramid from Standard Trigonal Bipyramid:
+REMARK     3  Distance Differences of Atoms-Atoms: 
+REMARK     3  SIDE 1: -0.149    
+REMARK     3  SIDE 2: -0.032    
+REMARK     3  SIDE 3: 0.386    
+REMARK     3  SIDE 4: -0.092    
+REMARK     3  SIDE 5: -1.006    
+REMARK     3  SIDE 6: -0.602    
+REMARK     3  SIDE 7: -0.285    
+REMARK     3  SIDE 8: 0.049    
+REMARK     3  SIDE 9: 0.284    
+REMARK     3  RMSE for Atom-Atom Distance MG: 0.219   
+REMARK     3  Differences of Angles Between Two Atoms with Another:
+REMARK     3  Angle 1: -1.569   
+REMARK     3  Angle 2: -26.260   
+REMARK     3  Angle 3: -14.898   
+REMARK     3  Angle 4: 3.967   
+REMARK     3  Angle 5: 21.736   
+REMARK     3  Angle 6: -7.509   
+REMARK     3  Angle 7: -2.398   
+REMARK     3  Angle 8: 2.411   
+REMARK     3  Angle 9: -18.773   
+REMARK     3  Angle 10: 4.524   
+REMARK     3  Angle 11: 12.487   
+REMARK     3  Angle 12: 26.282   
+REMARK     3  Angle 13: 5.458   
+REMARK     3  Angle 14: 5.449   
+REMARK     3  Angle 15: -5.776   
+REMARK     3  Angle 16: 7.059   
+REMARK     3  Angle 17: -5.538   
+REMARK     3  Angle 18: -0.785   
+REMARK     3  Angle 19: 0.318   
+REMARK     3  Angle 20: 0.089   
+REMARK     3  Angle 21: -6.274   
+REMARK     3  RMSE for Angle Differences AA MG: 5.879   

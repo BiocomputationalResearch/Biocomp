@@ -1,0 +1,106 @@
+HEADER     PROGRAM NAME: StructureDeviation  VERSION: 1.1
+TITLE      General Report for Statistics about Protein Atoms
+Protein Name: 4jk7
+REMARK     1
+REMARK     1  Total No. of Metal Ions Present: 2
+REMARK     1	Name & No. of Each Type of Metal Atom:
+REMARK     1		No. of Each Metal Site Present MG: 2
+REMARK     2
+REMARK     2  No. of MG Sites Present: 2
+REMARK     2
+REMARK     2 MG Binding Site 1
+REMARK     2	Sr. No.	Chain Name	Residue Name	Residue No.	Atom Name
+REMARK     2	3775			B			MG			2001			MG
+REMARK     2	Coordination Number MG: 4
+REMARK     2	MG Binding Site of protein
+REMARK     2	Shape of the MG Binding Site: tetragonal_planar_metal_on_plane
+REMARK     2
+REMARK     2
+REMARK     2	No Water Molecule Present in this MG Site, Shape tetragonal_planar_metal_on_plane
+REMARK     2
+REMARK     2	Inner Coordinating Sphere for MG_3775:
+REMARK     2	Direct Ligand Atoms for MG_3775:
+REMARK     2	Molecule Type		Sr. No.	Chain Name	Residue Name		Residue Type	Residue No.	Atom Name		Distance from MG
+REMARK     2 	water_molecule		4300			B			HOH			non_stand			2214			O		   2.051
+REMARK     2 	water_molecule		4299			B			HOH			non_stand			2213			O		   1.871
+REMARK     2 	water_molecule		4410			B			HOH			non_stand			2321			O		   1.905
+REMARK     2 	amino_acid		2009			B			ASP			standard			1781			OD1		   2.008
+
+REMARK     2	Inter-Atomic Distances in MG_3775 Site:
+
+REMARK     2	In MG (Distance of, Shape tetragonal_planar_metal_on_plane)_3775, O_4300 to O_4299:    2.725
+REMARK     2	In MG (Distance of, Shape tetragonal_planar_metal_on_plane)_3775, O_4300 to O_4410:    3.939
+REMARK     2	In MG (Distance of, Shape tetragonal_planar_metal_on_plane)_3775, O_4300 to OD1_2009:    3.119
+REMARK     2	In MG (Distance of, Shape tetragonal_planar_metal_on_plane)_3775, O_4299 to O_4410:    2.576
+REMARK     2	In MG (Distance of, Shape tetragonal_planar_metal_on_plane)_3775, O_4299 to OD1_2009:    3.868
+REMARK     2	In MG (Distance of, Shape tetragonal_planar_metal_on_plane)_3775, O_4410 to OD1_2009:    2.652
+
+REMARK     2	In MG (Mean Inter-Atomic Distance, Shape tetragonal_planar_metal_on_plane)_3775:    3.146
+
+REMARK     2	Angles Between Two Atoms Made with Metal in MG_3775 Site:
+
+REMARK     2	In MG (Angle Between, Shape tetragonal_planar_metal_on_plane)_3775, O_4300 and O_4299 with MG_3775:   87.879
+REMARK     2	In MG (Angle Between, Shape tetragonal_planar_metal_on_plane)_3775, O_4300 and O_4410 with MG_3775:  169.234
+REMARK     2	In MG (Angle Between, Shape tetragonal_planar_metal_on_plane)_3775, O_4300 and OD1_2009 with MG_3775:  100.390
+REMARK     2	In MG (Angle Between, Shape tetragonal_planar_metal_on_plane)_3775, O_4299 and O_4410 with MG_3775:   86.009
+REMARK     2	In MG (Angle Between, Shape tetragonal_planar_metal_on_plane)_3775, O_4299 and OD1_2009 with MG_3775:  171.153
+REMARK     2	In MG (Angle Between, Shape tetragonal_planar_metal_on_plane)_3775, O_4410 and OD1_2009 with MG_3775:   85.255
+
+REMARK     2	In MG (Mean Angle Atom-MG-Atom, Shape tetragonal_planar_metal_on_plane)_3775:  116.653
+
+REMARK     2	Equatorial (Planar) Atom Nos. in MG_3775 Site: 4300, 4299, 4410, 2009, 
+
+REMARK     2	All Coordinated Atoms are Equatorial (Planar, tetragonal_planar_metal_on_plane) in MG_3775 Site: 
+REMARK     3
+REMARK     3 MG Binding Site 2
+REMARK     3	Sr. No.	Chain Name	Residue Name	Residue No.	Atom Name
+REMARK     3	3776			B			MG			2002			MG
+REMARK     3	Coordination Number MG: 5
+REMARK     3	MG Binding Site of protein
+REMARK     3	Shape of the MG Binding Site: trigonal_bipyramidal
+REMARK     3
+REMARK     3
+REMARK     3	No Water Molecule Present in this MG Site, Shape trigonal_bipyramidal
+REMARK     3
+REMARK     3	Inner Coordinating Sphere for MG_3776:
+REMARK     3	Direct Ligand Atoms for MG_3776:
+REMARK     3	Molecule Type		Sr. No.	Chain Name	Residue Name		Residue Type	Residue No.	Atom Name		Distance from MG
+REMARK     3 	water_molecule		4004			A			HOH			non_stand			2322			O		   2.202
+REMARK     3 	water_molecule		4298			B			HOH			non_stand			2212			O		   2.288
+REMARK     3 	amino_acid		2625			B			GLU			standard			1856			OE2		   2.065
+REMARK     3 	water_molecule		4335			B			HOH			non_stand			2247			O		   2.699
+REMARK     3 	water_molecule		4469			B			HOH			non_stand			2379			O		   2.070
+
+REMARK     3	Inter-Atomic Distances in MG_3776 Site:
+
+REMARK     3	In MG (Distance of, Shape trigonal_bipyramidal)_3776, O_4004 to O_4298:    3.110
+REMARK     3	In MG (Distance of, Shape trigonal_bipyramidal)_3776, O_4004 to OE2_2625:    4.242
+REMARK     3	In MG (Distance of, Shape trigonal_bipyramidal)_3776, O_4004 to O_4335:    3.356
+REMARK     3	In MG (Distance of, Shape trigonal_bipyramidal)_3776, O_4004 to O_4469:    2.887
+REMARK     3	In MG (Distance of, Shape trigonal_bipyramidal)_3776, O_4298 to OE2_2625:    2.925
+REMARK     3	In MG (Distance of, Shape trigonal_bipyramidal)_3776, O_4298 to O_4335:    3.335
+REMARK     3	In MG (Distance of, Shape trigonal_bipyramidal)_3776, O_4298 to O_4469:    2.728
+REMARK     3	In MG (Distance of, Shape trigonal_bipyramidal)_3776, OE2_2625 to O_4335:    3.223
+REMARK     3	In MG (Distance of, Shape trigonal_bipyramidal)_3776, OE2_2625 to O_4469:    3.220
+REMARK     3	In MG (Distance of, Shape trigonal_bipyramidal)_3776, O_4335 to O_4469:    4.690
+
+REMARK     3	In MG (Mean Inter-Atomic Distance, Shape trigonal_bipyramidal)_3776:    3.371
+
+REMARK     3	Angles Between Two Atoms Made with Metal in MG_3776 Site:
+
+REMARK     3	In MG (Angle Between, Shape trigonal_bipyramidal)_3776, O_4004 and O_4298 with MG_3776:   87.628
+REMARK     3	In MG (Angle Between, Shape trigonal_bipyramidal)_3776, O_4004 and OE2_2625 with MG_3776:  167.577
+REMARK     3	In MG (Angle Between, Shape trigonal_bipyramidal)_3776, O_4004 and O_4335 with MG_3776:   85.770
+REMARK     3	In MG (Angle Between, Shape trigonal_bipyramidal)_3776, O_4004 and O_4469 with MG_3776:   84.938
+REMARK     3	In MG (Angle Between, Shape trigonal_bipyramidal)_3776, O_4298 and OE2_2625 with MG_3776:   84.216
+REMARK     3	In MG (Angle Between, Shape trigonal_bipyramidal)_3776, O_4298 and O_4335 with MG_3776:   83.464
+REMARK     3	In MG (Angle Between, Shape trigonal_bipyramidal)_3776, O_4298 and O_4469 with MG_3776:   77.285
+REMARK     3	In MG (Angle Between, Shape trigonal_bipyramidal)_3776, OE2_2625 and O_4335 with MG_3776:   83.981
+REMARK     3	In MG (Angle Between, Shape trigonal_bipyramidal)_3776, OE2_2625 and O_4469 with MG_3776:  102.231
+REMARK     3	In MG (Angle Between, Shape trigonal_bipyramidal)_3776, O_4335 and O_4469 with MG_3776:  158.937
+
+REMARK     3	In MG (Mean Angle Atom-MG-Atom, Shape trigonal_bipyramidal)_3776:  101.603
+
+REMARK     3	Equatorial (Planar) Atom Nos. in MG_3776 Site: 4004, 4298, 2625, 
+
+REMARK     3	Axial (Non-Planar) Atom Nos. in MG_3776 Site: 4335, 4469, 

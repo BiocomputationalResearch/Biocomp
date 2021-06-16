@@ -1,0 +1,24 @@
+
+HETATM 4004    O HOH A2322      45.693  -7.125  27.983  1.00 33.33           O  
+HETATM 4298    O HOH B2212      47.918  -8.547  26.340  1.00 36.01           O  
+ATOM   2625  OE2 GLU B1856      48.829  -5.937  25.385  1.00 31.37           O  
+HETATM 4335    O HOH B2247      45.765  -6.629  24.665  1.00 41.40           O  
+HETATM 4469    O HOH B2379      48.536  -6.917  28.438  1.00 37.88           O  
+CONECT 4004 4298                                                                
+CONECT 4298 4004                                                                
+CONECT 4298 2625                                                                
+CONECT 2625 4298                                                                
+CONECT 2625 4004                                                                
+CONECT 4004 2625                                                                
+CONECT 4335 4004                                                                
+CONECT 4004 4335                                                                
+CONECT 4335 4298                                                                
+CONECT 4298 4335                                                                
+CONECT 4335 2625                                                                
+CONECT 2625 4335                                                                
+CONECT 4469 4004                                                                
+CONECT 4004 4469                                                                
+CONECT 4469 4298                                                                
+CONECT 4298 4469                                                                
+CONECT 4469 2625                                                                
+CONECT 2625 4469                                                                

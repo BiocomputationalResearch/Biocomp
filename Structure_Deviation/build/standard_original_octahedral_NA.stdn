@@ -1,0 +1,29 @@
+
+HETATM 2440   O6 BCN A 201      15.263   0.068  12.444  1.00 17.83           O  
+HETATM 2549    O HOH A 396      15.390  -1.929  14.684  1.00 18.54           O  
+HETATM 2585    O HOH A 432      18.259   0.020  12.264  1.00 18.95           O  
+HETATM 2649    O HOH A 496      18.425  -1.928  14.497  1.00 19.63           O  
+HETATM 2484    O HOH A 331      16.844   0.706  14.755  1.00 17.65           O  
+HETATM 2518    O HOH A 365      16.658  -2.505  12.105  1.00 19.25           O  
+CONECT 2440 2549                                                                
+CONECT 2549 2440                                                                
+CONECT 2549 2585                                                                
+CONECT 2585 2549                                                                
+CONECT 2585 2649                                                                
+CONECT 2649 2585                                                                
+CONECT 2649 2440                                                                
+CONECT 2440 2649                                                                
+CONECT 2484 2440                                                                
+CONECT 2484 2549                                                                
+CONECT 2549 2484                                                                
+CONECT 2484 2585                                                                
+CONECT 2585 2484                                                                
+CONECT 2484 2649                                                                
+CONECT 2649 2484                                                                
+CONECT 2518 2440                                                                
+CONECT 2440 2518                                                                
+CONECT 2518 2549                                                                
+CONECT 2518 2585                                                                
+CONECT 2585 2518                                                                
+CONECT 2518 2649                                                                
+CONECT 2649 2518                                                                

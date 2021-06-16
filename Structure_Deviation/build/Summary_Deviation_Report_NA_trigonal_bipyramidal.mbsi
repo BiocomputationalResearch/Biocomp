@@ -1,0 +1,50 @@
+HEADER     PROGRAM NAME: StructureDeviation  VERSION: 1.1
+TITLE      Summary Report for Computation of Structural Deviations of Two Trigonal Bipyramidal NA Binding Sites with Coordination Number 5
+REMARK     1
+REMARK     1  No. of Trigonal Bipyramidal Sites Compared with Standard NA ION: 7
+REMARK     2
+REMARK     2  No. of Trigonal Bipyramidal Sites whose Size is Larger than the Standard Site: 6
+REMARK     2  Name of Proteins: 2a2a 5nj9 5nja 
+REMARK     2 Max. Larger Molecule Type: protein; No. of Such Sites: 6
+REMARK     2  No Such Site Exists  whose Size is Smaller than the Standard Site
+REMARK     2
+REMARK     2  No. of Trigonal Bipyramidal Sites whose Size is Same as that of the Standard Site: 1
+REMARK     2  Name of Proteins: 2a2a 
+REMARK     2 Max. Same Molecule Type: protein; No. of Such Sites: 1
+REMARK     2  No Such Site Exists  whose Size is Irregular in comparison to the Standard Site
+REMARK     3
+REMARK     3  Average Deviation of Distances of Atom-to-Atom:                         
+Side 1:    5.075
+Side 2:    1.841
+Side 3:    1.249
+Side 4:    0.391
+Side 5:    2.657
+Side 6:    1.443
+Side 7:    1.499
+Side 8:    2.104
+Side 9:    0.948
+REMARK     3         Average MSE Distance AA:    1.296
+REMARK     3
+REMARK     3  Average  Deviation of Angles of Made by Two Atoms with Another Atom:                         
+Angle 1:    4.460
+Angle 2:    7.854
+Angle 3:   16.394
+Angle 4:  -17.959
+Angle 5:  -18.691
+Angle 6:    3.933
+Angle 7:   13.500
+Angle 8:   -5.123
+Angle 9:    7.882
+Angle 10:   10.837
+Angle 11:  -11.271
+Angle 12:  -11.815
+Angle 13:  -21.340
+Angle 14:    2.742
+Angle 15:    9.561
+Angle 16:    1.119
+Angle 17:   16.063
+Angle 18:   -9.778
+Angle 19:   11.779
+Angle 20:  -18.805
+Angle 21:    8.659
+REMARK     3         Average MSE Angle AA:    9.108

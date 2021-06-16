@@ -1,0 +1,95 @@
+# The set of languages for which implicit dependencies are needed:
+set(CMAKE_DEPENDS_LANGUAGES
+  "CXX"
+  )
+# The set of files for implicit dependencies of each language:
+set(CMAKE_DEPENDS_CHECK_CXX
+  "/home/user/workspace/Structure_Deviation/src/Main.cpp" "/home/user/workspace/Structure_Deviation/build/CMakeFiles/Structure_Deviation.dir/src/Main.cpp.o"
+  "/home/user/workspace/Structure_Deviation/src/biomolecule.cpp" "/home/user/workspace/Structure_Deviation/build/CMakeFiles/Structure_Deviation.dir/src/biomolecule.cpp.o"
+  "/home/user/workspace/Structure_Deviation/src/coordinationsite.cpp" "/home/user/workspace/Structure_Deviation/build/CMakeFiles/Structure_Deviation.dir/src/coordinationsite.cpp.o"
+  "/home/user/workspace/Structure_Deviation/src/geometry.cpp" "/home/user/workspace/Structure_Deviation/build/CMakeFiles/Structure_Deviation.dir/src/geometry.cpp.o"
+  "/home/user/workspace/Structure_Deviation/src/globalMain.cpp" "/home/user/workspace/Structure_Deviation/build/CMakeFiles/Structure_Deviation.dir/src/globalMain.cpp.o"
+  "/home/user/workspace/Structure_Deviation/src/ligand.cpp" "/home/user/workspace/Structure_Deviation/build/CMakeFiles/Structure_Deviation.dir/src/ligand.cpp.o"
+  "/home/user/workspace/Structure_Deviation/src/mainIncludeFunc.cpp" "/home/user/workspace/Structure_Deviation/build/CMakeFiles/Structure_Deviation.dir/src/mainIncludeFunc.cpp.o"
+  "/home/user/workspace/Structure_Deviation/src/octa_structure_ca.cpp" "/home/user/workspace/Structure_Deviation/build/CMakeFiles/Structure_Deviation.dir/src/octa_structure_ca.cpp.o"
+  "/home/user/workspace/Structure_Deviation/src/octa_structure_cd.cpp" "/home/user/workspace/Structure_Deviation/build/CMakeFiles/Structure_Deviation.dir/src/octa_structure_cd.cpp.o"
+  "/home/user/workspace/Structure_Deviation/src/octa_structure_co.cpp" "/home/user/workspace/Structure_Deviation/build/CMakeFiles/Structure_Deviation.dir/src/octa_structure_co.cpp.o"
+  "/home/user/workspace/Structure_Deviation/src/octa_structure_fe.cpp" "/home/user/workspace/Structure_Deviation/build/CMakeFiles/Structure_Deviation.dir/src/octa_structure_fe.cpp.o"
+  "/home/user/workspace/Structure_Deviation/src/octa_structure_mg.cpp" "/home/user/workspace/Structure_Deviation/build/CMakeFiles/Structure_Deviation.dir/src/octa_structure_mg.cpp.o"
+  "/home/user/workspace/Structure_Deviation/src/octa_structure_mn.cpp" "/home/user/workspace/Structure_Deviation/build/CMakeFiles/Structure_Deviation.dir/src/octa_structure_mn.cpp.o"
+  "/home/user/workspace/Structure_Deviation/src/octa_structure_na.cpp" "/home/user/workspace/Structure_Deviation/build/CMakeFiles/Structure_Deviation.dir/src/octa_structure_na.cpp.o"
+  "/home/user/workspace/Structure_Deviation/src/octa_structure_ni.cpp" "/home/user/workspace/Structure_Deviation/build/CMakeFiles/Structure_Deviation.dir/src/octa_structure_ni.cpp.o"
+  "/home/user/workspace/Structure_Deviation/src/octa_structure_zn.cpp" "/home/user/workspace/Structure_Deviation/build/CMakeFiles/Structure_Deviation.dir/src/octa_structure_zn.cpp.o"
+  "/home/user/workspace/Structure_Deviation/src/octahedral.cpp" "/home/user/workspace/Structure_Deviation/build/CMakeFiles/Structure_Deviation.dir/src/octahedral.cpp.o"
+  "/home/user/workspace/Structure_Deviation/src/report.cpp" "/home/user/workspace/Structure_Deviation/build/CMakeFiles/Structure_Deviation.dir/src/report.cpp.o"
+  "/home/user/workspace/Structure_Deviation/src/shape.cpp" "/home/user/workspace/Structure_Deviation/build/CMakeFiles/Structure_Deviation.dir/src/shape.cpp.o"
+  "/home/user/workspace/Structure_Deviation/src/standard.cpp" "/home/user/workspace/Structure_Deviation/build/CMakeFiles/Structure_Deviation.dir/src/standard.cpp.o"
+  "/home/user/workspace/Structure_Deviation/src/submolecule.cpp" "/home/user/workspace/Structure_Deviation/build/CMakeFiles/Structure_Deviation.dir/src/submolecule.cpp.o"
+  "/home/user/workspace/Structure_Deviation/src/tetra_structure_as.cpp" "/home/user/workspace/Structure_Deviation/build/CMakeFiles/Structure_Deviation.dir/src/tetra_structure_as.cpp.o"
+  "/home/user/workspace/Structure_Deviation/src/tetra_structure_ca.cpp" "/home/user/workspace/Structure_Deviation/build/CMakeFiles/Structure_Deviation.dir/src/tetra_structure_ca.cpp.o"
+  "/home/user/workspace/Structure_Deviation/src/tetra_structure_cd.cpp" "/home/user/workspace/Structure_Deviation/build/CMakeFiles/Structure_Deviation.dir/src/tetra_structure_cd.cpp.o"
+  "/home/user/workspace/Structure_Deviation/src/tetra_structure_co.cpp" "/home/user/workspace/Structure_Deviation/build/CMakeFiles/Structure_Deviation.dir/src/tetra_structure_co.cpp.o"
+  "/home/user/workspace/Structure_Deviation/src/tetra_structure_cs.cpp" "/home/user/workspace/Structure_Deviation/build/CMakeFiles/Structure_Deviation.dir/src/tetra_structure_cs.cpp.o"
+  "/home/user/workspace/Structure_Deviation/src/tetra_structure_cu.cpp" "/home/user/workspace/Structure_Deviation/build/CMakeFiles/Structure_Deviation.dir/src/tetra_structure_cu.cpp.o"
+  "/home/user/workspace/Structure_Deviation/src/tetra_structure_fe.cpp" "/home/user/workspace/Structure_Deviation/build/CMakeFiles/Structure_Deviation.dir/src/tetra_structure_fe.cpp.o"
+  "/home/user/workspace/Structure_Deviation/src/tetra_structure_hg.cpp" "/home/user/workspace/Structure_Deviation/build/CMakeFiles/Structure_Deviation.dir/src/tetra_structure_hg.cpp.o"
+  "/home/user/workspace/Structure_Deviation/src/tetra_structure_k.cpp" "/home/user/workspace/Structure_Deviation/build/CMakeFiles/Structure_Deviation.dir/src/tetra_structure_k.cpp.o"
+  "/home/user/workspace/Structure_Deviation/src/tetra_structure_mg.cpp" "/home/user/workspace/Structure_Deviation/build/CMakeFiles/Structure_Deviation.dir/src/tetra_structure_mg.cpp.o"
+  "/home/user/workspace/Structure_Deviation/src/tetra_structure_mn.cpp" "/home/user/workspace/Structure_Deviation/build/CMakeFiles/Structure_Deviation.dir/src/tetra_structure_mn.cpp.o"
+  "/home/user/workspace/Structure_Deviation/src/tetra_structure_na.cpp" "/home/user/workspace/Structure_Deviation/build/CMakeFiles/Structure_Deviation.dir/src/tetra_structure_na.cpp.o"
+  "/home/user/workspace/Structure_Deviation/src/tetra_structure_ni.cpp" "/home/user/workspace/Structure_Deviation/build/CMakeFiles/Structure_Deviation.dir/src/tetra_structure_ni.cpp.o"
+  "/home/user/workspace/Structure_Deviation/src/tetra_structure_pb.cpp" "/home/user/workspace/Structure_Deviation/build/CMakeFiles/Structure_Deviation.dir/src/tetra_structure_pb.cpp.o"
+  "/home/user/workspace/Structure_Deviation/src/tetra_structure_zn.cpp" "/home/user/workspace/Structure_Deviation/build/CMakeFiles/Structure_Deviation.dir/src/tetra_structure_zn.cpp.o"
+  "/home/user/workspace/Structure_Deviation/src/tetragonal_pyramidal.cpp" "/home/user/workspace/Structure_Deviation/build/CMakeFiles/Structure_Deviation.dir/src/tetragonal_pyramidal.cpp.o"
+  "/home/user/workspace/Structure_Deviation/src/tetragonalpl_structure_cd.cpp" "/home/user/workspace/Structure_Deviation/build/CMakeFiles/Structure_Deviation.dir/src/tetragonalpl_structure_cd.cpp.o"
+  "/home/user/workspace/Structure_Deviation/src/tetragonalpl_structure_fe.cpp" "/home/user/workspace/Structure_Deviation/build/CMakeFiles/Structure_Deviation.dir/src/tetragonalpl_structure_fe.cpp.o"
+  "/home/user/workspace/Structure_Deviation/src/tetragonalpl_structure_mg.cpp" "/home/user/workspace/Structure_Deviation/build/CMakeFiles/Structure_Deviation.dir/src/tetragonalpl_structure_mg.cpp.o"
+  "/home/user/workspace/Structure_Deviation/src/tetragonalpl_structure_ni.cpp" "/home/user/workspace/Structure_Deviation/build/CMakeFiles/Structure_Deviation.dir/src/tetragonalpl_structure_ni.cpp.o"
+  "/home/user/workspace/Structure_Deviation/src/tetragonalplanar.cpp" "/home/user/workspace/Structure_Deviation/build/CMakeFiles/Structure_Deviation.dir/src/tetragonalplanar.cpp.o"
+  "/home/user/workspace/Structure_Deviation/src/tetragonalpyr_structure_ca.cpp" "/home/user/workspace/Structure_Deviation/build/CMakeFiles/Structure_Deviation.dir/src/tetragonalpyr_structure_ca.cpp.o"
+  "/home/user/workspace/Structure_Deviation/src/tetragonalpyr_structure_cd.cpp" "/home/user/workspace/Structure_Deviation/build/CMakeFiles/Structure_Deviation.dir/src/tetragonalpyr_structure_cd.cpp.o"
+  "/home/user/workspace/Structure_Deviation/src/tetragonalpyr_structure_mg.cpp" "/home/user/workspace/Structure_Deviation/build/CMakeFiles/Structure_Deviation.dir/src/tetragonalpyr_structure_mg.cpp.o"
+  "/home/user/workspace/Structure_Deviation/src/tetragonalpyr_structure_na.cpp" "/home/user/workspace/Structure_Deviation/build/CMakeFiles/Structure_Deviation.dir/src/tetragonalpyr_structure_na.cpp.o"
+  "/home/user/workspace/Structure_Deviation/src/tetragonalpyr_structure_ni.cpp" "/home/user/workspace/Structure_Deviation/build/CMakeFiles/Structure_Deviation.dir/src/tetragonalpyr_structure_ni.cpp.o"
+  "/home/user/workspace/Structure_Deviation/src/tetragonalpyr_structure_zn.cpp" "/home/user/workspace/Structure_Deviation/build/CMakeFiles/Structure_Deviation.dir/src/tetragonalpyr_structure_zn.cpp.o"
+  "/home/user/workspace/Structure_Deviation/src/tetrahedral.cpp" "/home/user/workspace/Structure_Deviation/build/CMakeFiles/Structure_Deviation.dir/src/tetrahedral.cpp.o"
+  "/home/user/workspace/Structure_Deviation/src/trigonal_bipyramidal.cpp" "/home/user/workspace/Structure_Deviation/build/CMakeFiles/Structure_Deviation.dir/src/trigonal_bipyramidal.cpp.o"
+  "/home/user/workspace/Structure_Deviation/src/trigonalbipyr_structure_ca.cpp" "/home/user/workspace/Structure_Deviation/build/CMakeFiles/Structure_Deviation.dir/src/trigonalbipyr_structure_ca.cpp.o"
+  "/home/user/workspace/Structure_Deviation/src/trigonalbipyr_structure_cd.cpp" "/home/user/workspace/Structure_Deviation/build/CMakeFiles/Structure_Deviation.dir/src/trigonalbipyr_structure_cd.cpp.o"
+  "/home/user/workspace/Structure_Deviation/src/trigonalbipyr_structure_co.cpp" "/home/user/workspace/Structure_Deviation/build/CMakeFiles/Structure_Deviation.dir/src/trigonalbipyr_structure_co.cpp.o"
+  "/home/user/workspace/Structure_Deviation/src/trigonalbipyr_structure_fe.cpp" "/home/user/workspace/Structure_Deviation/build/CMakeFiles/Structure_Deviation.dir/src/trigonalbipyr_structure_fe.cpp.o"
+  "/home/user/workspace/Structure_Deviation/src/trigonalbipyr_structure_hg.cpp" "/home/user/workspace/Structure_Deviation/build/CMakeFiles/Structure_Deviation.dir/src/trigonalbipyr_structure_hg.cpp.o"
+  "/home/user/workspace/Structure_Deviation/src/trigonalbipyr_structure_mg.cpp" "/home/user/workspace/Structure_Deviation/build/CMakeFiles/Structure_Deviation.dir/src/trigonalbipyr_structure_mg.cpp.o"
+  "/home/user/workspace/Structure_Deviation/src/trigonalbipyr_structure_mn.cpp" "/home/user/workspace/Structure_Deviation/build/CMakeFiles/Structure_Deviation.dir/src/trigonalbipyr_structure_mn.cpp.o"
+  "/home/user/workspace/Structure_Deviation/src/trigonalbipyr_structure_na.cpp" "/home/user/workspace/Structure_Deviation/build/CMakeFiles/Structure_Deviation.dir/src/trigonalbipyr_structure_na.cpp.o"
+  "/home/user/workspace/Structure_Deviation/src/trigonalbipyr_structure_ni.cpp" "/home/user/workspace/Structure_Deviation/build/CMakeFiles/Structure_Deviation.dir/src/trigonalbipyr_structure_ni.cpp.o"
+  "/home/user/workspace/Structure_Deviation/src/trigonalbipyr_structure_zn.cpp" "/home/user/workspace/Structure_Deviation/build/CMakeFiles/Structure_Deviation.dir/src/trigonalbipyr_structure_zn.cpp.o"
+  "/home/user/workspace/Structure_Deviation/src/trigonalpl_structure_as.cpp" "/home/user/workspace/Structure_Deviation/build/CMakeFiles/Structure_Deviation.dir/src/trigonalpl_structure_as.cpp.o"
+  "/home/user/workspace/Structure_Deviation/src/trigonalpl_structure_ca.cpp" "/home/user/workspace/Structure_Deviation/build/CMakeFiles/Structure_Deviation.dir/src/trigonalpl_structure_ca.cpp.o"
+  "/home/user/workspace/Structure_Deviation/src/trigonalpl_structure_cd.cpp" "/home/user/workspace/Structure_Deviation/build/CMakeFiles/Structure_Deviation.dir/src/trigonalpl_structure_cd.cpp.o"
+  "/home/user/workspace/Structure_Deviation/src/trigonalpl_structure_co.cpp" "/home/user/workspace/Structure_Deviation/build/CMakeFiles/Structure_Deviation.dir/src/trigonalpl_structure_co.cpp.o"
+  "/home/user/workspace/Structure_Deviation/src/trigonalpl_structure_cu.cpp" "/home/user/workspace/Structure_Deviation/build/CMakeFiles/Structure_Deviation.dir/src/trigonalpl_structure_cu.cpp.o"
+  "/home/user/workspace/Structure_Deviation/src/trigonalpl_structure_fe.cpp" "/home/user/workspace/Structure_Deviation/build/CMakeFiles/Structure_Deviation.dir/src/trigonalpl_structure_fe.cpp.o"
+  "/home/user/workspace/Structure_Deviation/src/trigonalpl_structure_hg.cpp" "/home/user/workspace/Structure_Deviation/build/CMakeFiles/Structure_Deviation.dir/src/trigonalpl_structure_hg.cpp.o"
+  "/home/user/workspace/Structure_Deviation/src/trigonalpl_structure_k.cpp" "/home/user/workspace/Structure_Deviation/build/CMakeFiles/Structure_Deviation.dir/src/trigonalpl_structure_k.cpp.o"
+  "/home/user/workspace/Structure_Deviation/src/trigonalpl_structure_mg.cpp" "/home/user/workspace/Structure_Deviation/build/CMakeFiles/Structure_Deviation.dir/src/trigonalpl_structure_mg.cpp.o"
+  "/home/user/workspace/Structure_Deviation/src/trigonalpl_structure_mn.cpp" "/home/user/workspace/Structure_Deviation/build/CMakeFiles/Structure_Deviation.dir/src/trigonalpl_structure_mn.cpp.o"
+  "/home/user/workspace/Structure_Deviation/src/trigonalpl_structure_na.cpp" "/home/user/workspace/Structure_Deviation/build/CMakeFiles/Structure_Deviation.dir/src/trigonalpl_structure_na.cpp.o"
+  "/home/user/workspace/Structure_Deviation/src/trigonalpl_structure_ni.cpp" "/home/user/workspace/Structure_Deviation/build/CMakeFiles/Structure_Deviation.dir/src/trigonalpl_structure_ni.cpp.o"
+  "/home/user/workspace/Structure_Deviation/src/trigonalpl_structure_pb.cpp" "/home/user/workspace/Structure_Deviation/build/CMakeFiles/Structure_Deviation.dir/src/trigonalpl_structure_pb.cpp.o"
+  "/home/user/workspace/Structure_Deviation/src/trigonalpl_structure_zn.cpp" "/home/user/workspace/Structure_Deviation/build/CMakeFiles/Structure_Deviation.dir/src/trigonalpl_structure_zn.cpp.o"
+  "/home/user/workspace/Structure_Deviation/src/trigonalplanar.cpp" "/home/user/workspace/Structure_Deviation/build/CMakeFiles/Structure_Deviation.dir/src/trigonalplanar.cpp.o"
+  )
+set(CMAKE_CXX_COMPILER_ID "GNU")
+
+# The include file search paths:
+set(CMAKE_CXX_TARGET_INCLUDE_PATH
+  "../add"
+  )
+
+# Targets to which this target links.
+set(CMAKE_TARGET_LINKED_INFO_FILES
+  )
+
+# Fortran module output directory.
+set(CMAKE_Fortran_TARGET_MODULE_DIR "")

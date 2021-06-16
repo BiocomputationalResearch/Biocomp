@@ -1,0 +1,51 @@
+HEADER     PROGRAM NAME: StructureDeviation  VERSION: 1.1
+TITLE      Summary Report for Computation of Structural Deviations of Two Tetrahedral NA Binding Sites with Coordination Number 4
+REMARK     1
+REMARK     1  No. of Tetrahedral Sites Compared with Standard NA ION: 1
+REMARK     2  No Such Site Exists whose Binding Atoms are Nearer to Binding Atoms of Standard Site
+REMARK     2
+REMARK     2  No. of Tetra Sites whose Binding Atoms are Far Apart as Compared to Standard Site: 1
+REMARK     2  Name of Proteins: 2a2a 
+REMARK     2 Max. Far_Apart Molecule Type: protein; No. of Such Sites: 1
+REMARK     2  No Such Site Exists  whose Size is Larger than the Standard Site
+REMARK     2
+REMARK     2  No. of Tetra Sites whose Size is Smaller than the Standard Site: 1
+REMARK     2  Name of Proteins: 2a2a 
+REMARK     2 Max. Smaller Molecule Type: protein; No. of Such Sites: 1
+REMARK     2  No Such Site Exists  whose Size is Same as that of the Standard Site
+REMARK     3
+REMARK     3  Average Deviation of Distance from Circumcentre to Any Atom:    0.005
+REMARK     3         Average MSE Distance CC:    0.005
+REMARK     3
+REMARK     3  Average Deviation of Distances of Atom-to-Atom:                         
+Side 1:    0.469
+Side 2:    6.405
+Side 3:    5.178
+Side 4:    3.795
+Side 5:    7.221
+Side 6:    0.746
+REMARK     3         Average MSE Distance AA:    2.373
+REMARK     3
+REMARK     3  Average  Deviation of Angles Made by Two Atoms with Circumcentre:                         
+Angle 1:   -7.879
+Angle 2:   -4.075
+Angle 3:   47.878
+Angle 4:  -67.172
+Angle 5:    1.340
+Angle 6:   -4.198
+REMARK     3         Average MSE Angle CC:   16.959
+REMARK     3
+REMARK     3  Average  Deviation of Angles of Made by Two Atoms with Another Atom:                         
+Angle 1:  -37.558
+Angle 2:  -14.308
+Angle 3:  -19.514
+Angle 4:   19.722
+Angle 5:   32.417
+Angle 6:   14.900
+Angle 7:   17.836
+Angle 8:   38.193
+Angle 9:   24.776
+Angle 10:  -18.109
+Angle 11:  -18.679
+Angle 12:  -39.676
+REMARK     3         Average MSE Angle AA:   13.150

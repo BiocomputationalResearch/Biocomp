@@ -1,0 +1,93 @@
+HEADER     PROGRAM NAME: StructureDeviation  VERSION: 1.1
+TITLE      Deviation Report for Computation of Structural Deviations of Two Tetragonal Pyramidal NA ION Binding Sites
+REMARK     1
+REMARK     1  Standard Tetragonal Pyramid:                   
+REMARK     1  Molecule Type of Standard Tetragonal Pyramid: protein
+REMARK     1
+REMARK     1  Distances of Atoms-Atoms:                         
+DISTRR 485 2801    4.002
+DISTRR 2801 2805    3.139
+DISTRR 2805 2944    4.274
+DISTRR 2944 485    3.576
+DISTRR 311 485    3.010
+DISTRR 311 2801    4.609
+DISTRR 311 2805    4.559
+DISTRR 311 2944    3.067
+REMARK     1  Angles made by two atoms with another atom of Tetragonal Pyramid:
+ANGLEV 2801 485 2944   91.184
+ANGLEV 485 2801 2805   93.105
+ANGLEV 2801 2805 2944   92.701
+ANGLEV 485 2944 2805   82.802
+ANGLEV 485 311 2801   58.969
+ANGLEV 311 485 2801   80.832
+ANGLEV 311 2801 485   40.126
+ANGLEV 2801 311 2805   40.023
+ANGLEV 311 2801 2805   69.086
+ANGLEV 311 2805 2801   70.818
+ANGLEV 2805 311 2944   64.745
+ANGLEV 311 2805 2944   40.455
+ANGLEV 311 2944 2805   74.727
+ANGLEV 2944 311 485   72.052
+ANGLEV 311 2944 485   53.198
+ANGLEV 311 485 2944   54.678
+REMARK     2
+REMARK     2  Comparable Tetrahedrons:
+REMARK     1  Molecule Type of Comparable Tetragonal Pyramid: protein
+REMARK     2  Size of This Site is smaller than the Standard Site
+REMARK     2  Distances of Atoms from  Metal Ion:
+REMARK     2  Distances of Atoms-Atoms:
+DISTRR 15480 15344    3.480
+DISTRR 15344 960    3.132
+DISTRR 960 15389    3.583
+DISTRR 15389 15480    3.315
+DISTRR 15390 15480    3.109
+DISTRR 15390 960    3.616
+DISTRR 15390 15344    3.575
+DISTRR 15390 15389    3.292
+REMARK     2  Angles made by two atoms with another atom of Tetragonal Pyramid:
+ANGLEV 15344 15480 15389   91.485
+ANGLEV 15480 15344 960   90.152
+ANGLEV 15344 960 15389   92.684
+ANGLEV 15480 15389 960   85.533
+ANGLEV 15480 15390 960   88.040
+ANGLEV 15390 15480 960   50.400
+ANGLEV 15390 960 15480   41.488
+ANGLEV 960 15390 15344   51.617
+ANGLEV 15390 960 15344   63.472
+ANGLEV 15390 15344 960   64.838
+ANGLEV 15344 15390 15389   90.203
+ANGLEV 15390 15344 15389   42.510
+ANGLEV 15390 15389 15344   47.215
+ANGLEV 15389 15390 15480   62.287
+ANGLEV 15390 15389 15480   56.126
+ANGLEV 15390 15480 15389   61.514
+REMARK     3
+REMARK     3  Deviation Results of Comparable Tetragonal Pyramid from Standard Tetragonal Pyramid:
+REMARK     3  Distance Differences of Atoms-Atoms: 
+REMARK     3  SIDE 1: 7.857    
+REMARK     3  SIDE 2: 0.021    
+REMARK     3  SIDE 3: 4.252    
+REMARK     3  SIDE 4: 0.619    
+REMARK     3  SIDE 5: 4.659    
+REMARK     3  SIDE 6: 0.553    
+REMARK     3  SIDE 7: 0.523    
+REMARK     3  SIDE 8: 1.110    
+REMARK     3  RMSE for Atom-Atom Distance NA: 1.800   
+REMARK     3  Differences of Angles Between Two Atoms with Another:
+REMARK     3  Angle 1: 0.017   
+REMARK     3  Angle 2: -13.936   
+REMARK     3  Angle 3: 7.346   
+REMARK     3  Angle 4: 11.437   
+REMARK     3  Angle 5: 4.248   
+REMARK     3  Angle 6: 2.498   
+REMARK     3  Angle 7: -11.594   
+REMARK     3  Angle 8: -12.135   
+REMARK     3  Angle 9: -2.927   
+REMARK     3  Angle 10: -0.301   
+REMARK     3  Angle 11: 15.424   
+REMARK     3  Angle 12: -6.837   
+REMARK     3  Angle 13: -3.289   
+REMARK     3  Angle 14: 9.764   
+REMARK     3  Angle 15: 13.388   
+REMARK     3  Angle 16: 2.987   
+REMARK     3  RMSE for Angle Differences AA NA: 4.459   

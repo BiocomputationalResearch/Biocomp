@@ -1,0 +1,41 @@
+HEADER     PROGRAM NAME: StructureDeviation  VERSION: 1.1
+TITLE      Summary Report for Computation of Structural Deviations of Two Tetragonal Pyramidal NA Binding Sites with Coordination Number 5
+REMARK     1
+REMARK     1  No. of Tetragonal Pyramidal Sites Compared with Standard NA ION: 1
+REMARK     2  No Such Site Exists  whose Size is Larger than the Standard Site
+REMARK     2
+REMARK     2  No. of Tetragonal Pyramidal Sites whose Size is Smaller than the Standard Site: 1
+REMARK     2  Name of Proteins: 5nj9 
+REMARK     2 Max. Smaller Molecule Type: protein; No. of Such Sites: 1
+REMARK     2  No Such Site Exists  whose Size is Same as that of the Standard Site
+REMARK     2  No Such Site Exists  whose Size is Irregular in comparison to the Standard Site
+REMARK     3
+REMARK     3  Average Deviation of Distances of Atom-to-Atom:                         
+Side 1:    7.857
+Side 2:    0.021
+Side 3:    4.252
+Side 4:    0.619
+Side 5:    4.659
+Side 6:    0.553
+Side 7:    0.523
+Side 8:    1.110
+REMARK     3         Average MSE Distance AA:    1.800
+REMARK     3
+REMARK     3  Average  Deviation of Angles of Made by Two Atoms with Another Atom:                         
+Angle 1:    0.017
+Angle 2:  -13.936
+Angle 3:    7.346
+Angle 4:   11.437
+Angle 5:    4.248
+Angle 6:    2.498
+Angle 7:  -11.594
+Angle 8:  -12.135
+Angle 9:   -2.927
+Angle 10:   -0.301
+Angle 11:   15.424
+Angle 12:   -6.837
+Angle 13:   -3.289
+Angle 14:    9.764
+Angle 15:   13.388
+Angle 16:    2.987
+REMARK     3         Average MSE Angle AA:    4.459

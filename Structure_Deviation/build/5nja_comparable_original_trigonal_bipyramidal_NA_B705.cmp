@@ -1,0 +1,24 @@
+
+HETATM15928    O HOH B1204      60.192  65.337  22.977  1.00 29.78           O  
+ATOM   3998    O SER B  30      61.132  68.987  22.484  1.00 23.60           O  
+HETATM15884    O HOH B1164      63.936  66.147  23.967  1.00 29.81           O  
+HETATM15598    O HOH B 891      63.555  68.607  23.605  1.00 29.59           O  
+ATOM   4026    O SER B  33      61.507  67.499  25.424  1.00 18.32           O  
+CONECT15928 3998                                                                
+CONECT 399815928                                                                
+CONECT 399815884                                                                
+CONECT15884 3998                                                                
+CONECT1588415928                                                                
+CONECT1592815884                                                                
+CONECT1559815928                                                                
+CONECT1592815598                                                                
+CONECT15598 3998                                                                
+CONECT 399815598                                                                
+CONECT1559815884                                                                
+CONECT1588415598                                                                
+CONECT 402615928                                                                
+CONECT15928 4026                                                                
+CONECT 4026 3998                                                                
+CONECT 3998 4026                                                                
+CONECT 402615884                                                                
+CONECT15884 4026                                                                

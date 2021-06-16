@@ -1,0 +1,345 @@
+HEADER     PROGRAM NAME: StructureDeviation  VERSION: 1.1
+TITLE      General Report for Statistics about Protein Atoms
+Protein Name: 5vsc
+REMARK     1
+REMARK     1  Total No. of Metal Ions Present: 8
+REMARK     1	Name & No. of Each Type of Metal Atom:
+REMARK     1		No. of Each Metal Site Present ZN: 8
+REMARK     2
+REMARK     2  No. of ZN Sites Present: 8
+REMARK     2
+REMARK     2 ZN Binding Site 1
+REMARK     2	Sr. No.	Chain Name	Residue Name	Residue No.	Atom Name
+REMARK     2	4360			A			ZN			1501			ZN
+REMARK     2	Coordination Number ZN: 4
+REMARK     2	ZN Binding Site of protein
+REMARK     2	Shape of the ZN Binding Site: tetrahedral
+REMARK     2
+REMARK     2
+REMARK     2	No Water Molecule Present in this ZN Site, Shape tetrahedral
+REMARK     2
+REMARK     2	Inner Coordinating Sphere for ZN_4360:
+REMARK     2	Direct Ligand Atoms for ZN_4360:
+REMARK     2	Molecule Type		Sr. No.	Chain Name	Residue Name		Residue Type	Residue No.	Atom Name		Distance from ZN
+REMARK     2 	amino_acid		869			A			CYS			standard			1027			SG		   2.283
+REMARK     2 	amino_acid		830			A			CYS			standard			1023			SG		   2.300
+REMARK     2 	amino_acid		491			A			CYS			standard			980			SG		   2.306
+REMARK     2 	amino_acid		790			A			CYS			standard			1017			SG		   2.431
+
+REMARK     2	Inter-Atomic Distances in ZN_4360 Site:
+
+REMARK     2	In ZN (Distance of, Shape tetrahedral)_4360, SG_869 to SG_830:    3.853
+REMARK     2	In ZN (Distance of, Shape tetrahedral)_4360, SG_869 to SG_491:    3.818
+REMARK     2	In ZN (Distance of, Shape tetrahedral)_4360, SG_869 to SG_790:    3.781
+REMARK     2	In ZN (Distance of, Shape tetrahedral)_4360, SG_830 to SG_491:    3.644
+REMARK     2	In ZN (Distance of, Shape tetrahedral)_4360, SG_830 to SG_790:    3.816
+REMARK     2	In ZN (Distance of, Shape tetrahedral)_4360, SG_491 to SG_790:    3.906
+
+REMARK     2	In ZN (Mean Inter-Atomic Distance, Shape tetrahedral)_4360:    3.803
+
+REMARK     2	Angles Between Two Atoms Made with Metal in ZN_4360 Site:
+
+REMARK     2	In ZN (Angle Between, Shape tetrahedral)_4360, SG_869 and SG_830 with ZN_4360:  114.365
+REMARK     2	In ZN (Angle Between, Shape tetrahedral)_4360, SG_869 and SG_491 with ZN_4360:  112.580
+REMARK     2	In ZN (Angle Between, Shape tetrahedral)_4360, SG_869 and SG_790 with ZN_4360:  106.575
+REMARK     2	In ZN (Angle Between, Shape tetrahedral)_4360, SG_830 and SG_491 with ZN_4360:  104.526
+REMARK     2	In ZN (Angle Between, Shape tetrahedral)_4360, SG_830 and SG_790 with ZN_4360:  107.452
+REMARK     2	In ZN (Angle Between, Shape tetrahedral)_4360, SG_491 and SG_790 with ZN_4360:  111.040
+
+REMARK     2	In ZN (Mean Angle Atom-ZN-Atom, Shape tetrahedral)_4360:  109.423
+
+REMARK     2	No Atoms More than 3 are coplanar (tetrahedral) in ZN_4360 Site: 
+REMARK     3
+REMARK     3 ZN Binding Site 2
+REMARK     3	Sr. No.	Chain Name	Residue Name	Residue No.	Atom Name
+REMARK     3	4361			A			ZN			1502			ZN
+REMARK     3	Coordination Number ZN: 4
+REMARK     3	ZN Binding Site of protein
+REMARK     3	Shape of the ZN Binding Site: tetrahedral
+REMARK     3
+REMARK     3
+REMARK     3	No Water Molecule Present in this ZN Site, Shape tetrahedral
+REMARK     3
+REMARK     3	Inner Coordinating Sphere for ZN_4361:
+REMARK     3	Direct Ligand Atoms for ZN_4361:
+REMARK     3	Molecule Type		Sr. No.	Chain Name	Residue Name		Residue Type	Residue No.	Atom Name		Distance from ZN
+REMARK     3 	amino_acid		790			A			CYS			standard			1017			SG		   2.317
+REMARK     3 	amino_acid		449			A			CYS			standard			974			SG		   2.333
+REMARK     3 	amino_acid		818			A			CYS			standard			1021			SG		   2.320
+REMARK     3 	amino_acid		537			A			CYS			standard			987			SG		   2.373
+
+REMARK     3	Inter-Atomic Distances in ZN_4361 Site:
+
+REMARK     3	In ZN (Distance of, Shape tetrahedral)_4361, SG_790 to SG_449:    3.799
+REMARK     3	In ZN (Distance of, Shape tetrahedral)_4361, SG_790 to SG_818:    3.964
+REMARK     3	In ZN (Distance of, Shape tetrahedral)_4361, SG_790 to SG_537:    3.846
+REMARK     3	In ZN (Distance of, Shape tetrahedral)_4361, SG_449 to SG_818:    3.734
+REMARK     3	In ZN (Distance of, Shape tetrahedral)_4361, SG_449 to SG_537:    3.949
+REMARK     3	In ZN (Distance of, Shape tetrahedral)_4361, SG_818 to SG_537:    3.559
+
+REMARK     3	In ZN (Mean Inter-Atomic Distance, Shape tetrahedral)_4361:    3.809
+
+REMARK     3	Angles Between Two Atoms Made with Metal in ZN_4361 Site:
+
+REMARK     3	In ZN (Angle Between, Shape tetrahedral)_4361, SG_790 and SG_449 with ZN_4361:  109.517
+REMARK     3	In ZN (Angle Between, Shape tetrahedral)_4361, SG_790 and SG_818 with ZN_4361:  117.426
+REMARK     3	In ZN (Angle Between, Shape tetrahedral)_4361, SG_790 and SG_537 with ZN_4361:  110.105
+REMARK     3	In ZN (Angle Between, Shape tetrahedral)_4361, SG_449 and SG_818 with ZN_4361:  106.703
+REMARK     3	In ZN (Angle Between, Shape tetrahedral)_4361, SG_449 and SG_537 with ZN_4361:  114.015
+REMARK     3	In ZN (Angle Between, Shape tetrahedral)_4361, SG_818 and SG_537 with ZN_4361:   98.601
+
+REMARK     3	In ZN (Mean Angle Atom-ZN-Atom, Shape tetrahedral)_4361:  109.395
+
+REMARK     3	No Atoms More than 3 are coplanar (tetrahedral) in ZN_4361 Site: 
+REMARK     4
+REMARK     4 ZN Binding Site 3
+REMARK     4	Sr. No.	Chain Name	Residue Name	Residue No.	Atom Name
+REMARK     4	4362			A			ZN			1503			ZN
+REMARK     4	Coordination Number ZN: 4
+REMARK     4	ZN Binding Site of protein
+REMARK     4	Shape of the ZN Binding Site: tetrahedral
+REMARK     4
+REMARK     4
+REMARK     4	No Water Molecule Present in this ZN Site, Shape tetrahedral
+REMARK     4
+REMARK     4	Inner Coordinating Sphere for ZN_4362:
+REMARK     4	Direct Ligand Atoms for ZN_4362:
+REMARK     4	Molecule Type		Sr. No.	Chain Name	Residue Name		Residue Type	Residue No.	Atom Name		Distance from ZN
+REMARK     4 	amino_acid		491			A			CYS			standard			980			SG		   2.453
+REMARK     4 	amino_acid		449			A			CYS			standard			974			SG		   2.385
+REMARK     4 	amino_acid		462			A			CYS			standard			976			SG		   2.301
+REMARK     4 	amino_acid		523			A			CYS			standard			985			SG		   2.332
+
+REMARK     4	Inter-Atomic Distances in ZN_4362 Site:
+
+REMARK     4	In ZN (Distance of, Shape tetrahedral)_4362, SG_491 to SG_449:    3.820
+REMARK     4	In ZN (Distance of, Shape tetrahedral)_4362, SG_491 to SG_462:    3.774
+REMARK     4	In ZN (Distance of, Shape tetrahedral)_4362, SG_491 to SG_523:    4.105
+REMARK     4	In ZN (Distance of, Shape tetrahedral)_4362, SG_449 to SG_462:    3.797
+REMARK     4	In ZN (Distance of, Shape tetrahedral)_4362, SG_449 to SG_523:    3.872
+REMARK     4	In ZN (Distance of, Shape tetrahedral)_4362, SG_462 to SG_523:    3.800
+
+REMARK     4	In ZN (Mean Inter-Atomic Distance, Shape tetrahedral)_4362:    3.861
+
+REMARK     4	Angles Between Two Atoms Made with Metal in ZN_4362 Site:
+
+REMARK     4	In ZN (Angle Between, Shape tetrahedral)_4362, SG_491 and SG_449 with ZN_4362:  104.231
+REMARK     4	In ZN (Angle Between, Shape tetrahedral)_4362, SG_491 and SG_462 with ZN_4362:  105.016
+REMARK     4	In ZN (Angle Between, Shape tetrahedral)_4362, SG_491 and SG_523 with ZN_4362:  118.113
+REMARK     4	In ZN (Angle Between, Shape tetrahedral)_4362, SG_449 and SG_462 with ZN_4362:  108.184
+REMARK     4	In ZN (Angle Between, Shape tetrahedral)_4362, SG_449 and SG_523 with ZN_4362:  110.297
+REMARK     4	In ZN (Angle Between, Shape tetrahedral)_4362, SG_462 and SG_523 with ZN_4362:  110.175
+
+REMARK     4	In ZN (Mean Angle Atom-ZN-Atom, Shape tetrahedral)_4362:  109.336
+
+REMARK     4	No Atoms More than 3 are coplanar (tetrahedral) in ZN_4362 Site: 
+REMARK     5
+REMARK     5 ZN Binding Site 4
+REMARK     5	Sr. No.	Chain Name	Residue Name	Residue No.	Atom Name
+REMARK     5	4363			A			ZN			1504			ZN
+REMARK     5	Coordination Number ZN: 4
+REMARK     5	ZN Binding Site of protein
+REMARK     5	Shape of the ZN Binding Site: tetrahedral
+REMARK     5
+REMARK     5
+REMARK     5	No Water Molecule Present in this ZN Site, Shape tetrahedral
+REMARK     5
+REMARK     5	Inner Coordinating Sphere for ZN_4363:
+REMARK     5	Direct Ligand Atoms for ZN_4363:
+REMARK     5	Molecule Type		Sr. No.	Chain Name	Residue Name		Residue Type	Residue No.	Atom Name		Distance from ZN
+REMARK     5 	amino_acid		2054			A			CYS			standard			1175			SG		   2.190
+REMARK     5 	amino_acid		2020			A			CYS			standard			1170			SG		   2.354
+REMARK     5 	amino_acid		2005			A			CYS			standard			1168			SG		   2.296
+REMARK     5 	amino_acid		1551			A			CYS			standard			1115			SG		   2.445
+
+REMARK     5	Inter-Atomic Distances in ZN_4363 Site:
+
+REMARK     5	In ZN (Distance of, Shape tetrahedral)_4363, SG_2054 to SG_2020:    3.777
+REMARK     5	In ZN (Distance of, Shape tetrahedral)_4363, SG_2054 to SG_2005:    3.622
+REMARK     5	In ZN (Distance of, Shape tetrahedral)_4363, SG_2054 to SG_1551:    3.703
+REMARK     5	In ZN (Distance of, Shape tetrahedral)_4363, SG_2020 to SG_2005:    3.745
+REMARK     5	In ZN (Distance of, Shape tetrahedral)_4363, SG_2020 to SG_1551:    3.956
+REMARK     5	In ZN (Distance of, Shape tetrahedral)_4363, SG_2005 to SG_1551:    3.945
+
+REMARK     5	In ZN (Mean Inter-Atomic Distance, Shape tetrahedral)_4363:    3.791
+
+REMARK     5	Angles Between Two Atoms Made with Metal in ZN_4363 Site:
+
+REMARK     5	In ZN (Angle Between, Shape tetrahedral)_4363, SG_2054 and SG_2020 with ZN_4363:  112.348
+REMARK     5	In ZN (Angle Between, Shape tetrahedral)_4363, SG_2054 and SG_2005 with ZN_4363:  107.600
+REMARK     5	In ZN (Angle Between, Shape tetrahedral)_4363, SG_2054 and SG_1551 with ZN_4363:  105.854
+REMARK     5	In ZN (Angle Between, Shape tetrahedral)_4363, SG_2020 and SG_2005 with ZN_4363:  107.274
+REMARK     5	In ZN (Angle Between, Shape tetrahedral)_4363, SG_2020 and SG_1551 with ZN_4363:  111.001
+REMARK     5	In ZN (Angle Between, Shape tetrahedral)_4363, SG_2005 and SG_1551 with ZN_4363:  112.529
+
+REMARK     5	In ZN (Mean Angle Atom-ZN-Atom, Shape tetrahedral)_4363:  109.434
+
+REMARK     5	No Atoms More than 3 are coplanar (tetrahedral) in ZN_4363 Site: 
+REMARK     6
+REMARK     6 ZN Binding Site 5
+REMARK     6	Sr. No.	Chain Name	Residue Name	Residue No.	Atom Name
+REMARK     6	4418			B			ZN			1501			ZN
+REMARK     6	Coordination Number ZN: 4
+REMARK     6	ZN Binding Site of protein
+REMARK     6	Shape of the ZN Binding Site: tetrahedral
+REMARK     6
+REMARK     6
+REMARK     6	No Water Molecule Present in this ZN Site, Shape tetrahedral
+REMARK     6
+REMARK     6	Inner Coordinating Sphere for ZN_4418:
+REMARK     6	Direct Ligand Atoms for ZN_4418:
+REMARK     6	Molecule Type		Sr. No.	Chain Name	Residue Name		Residue Type	Residue No.	Atom Name		Distance from ZN
+REMARK     6 	amino_acid		2678			B			CYS			standard			980			SG		   2.306
+REMARK     6 	amino_acid		3056			B			CYS			standard			1027			SG		   2.377
+REMARK     6 	amino_acid		2977			B			CYS			standard			1017			SG		   2.349
+REMARK     6 	amino_acid		3017			B			CYS			standard			1023			SG		   2.314
+
+REMARK     6	Inter-Atomic Distances in ZN_4418 Site:
+
+REMARK     6	In ZN (Distance of, Shape tetrahedral)_4418, SG_2678 to SG_3056:    3.910
+REMARK     6	In ZN (Distance of, Shape tetrahedral)_4418, SG_2678 to SG_2977:    3.823
+REMARK     6	In ZN (Distance of, Shape tetrahedral)_4418, SG_2678 to SG_3017:    3.672
+REMARK     6	In ZN (Distance of, Shape tetrahedral)_4418, SG_3056 to SG_2977:    3.771
+REMARK     6	In ZN (Distance of, Shape tetrahedral)_4418, SG_3056 to SG_3017:    3.930
+REMARK     6	In ZN (Distance of, Shape tetrahedral)_4418, SG_2977 to SG_3017:    3.776
+
+REMARK     6	In ZN (Mean Inter-Atomic Distance, Shape tetrahedral)_4418:    3.814
+
+REMARK     6	Angles Between Two Atoms Made with Metal in ZN_4418 Site:
+
+REMARK     6	In ZN (Angle Between, Shape tetrahedral)_4418, SG_2678 and SG_3056 with ZN_4418:  113.182
+REMARK     6	In ZN (Angle Between, Shape tetrahedral)_4418, SG_2678 and SG_2977 with ZN_4418:  110.347
+REMARK     6	In ZN (Angle Between, Shape tetrahedral)_4418, SG_2678 and SG_3017 with ZN_4418:  105.249
+REMARK     6	In ZN (Angle Between, Shape tetrahedral)_4418, SG_3056 and SG_2977 with ZN_4418:  105.853
+REMARK     6	In ZN (Angle Between, Shape tetrahedral)_4418, SG_3056 and SG_3017 with ZN_4418:  113.772
+REMARK     6	In ZN (Angle Between, Shape tetrahedral)_4418, SG_2977 and SG_3017 with ZN_4418:  108.128
+
+REMARK     6	In ZN (Mean Angle Atom-ZN-Atom, Shape tetrahedral)_4418:  109.422
+
+REMARK     6	No Atoms More than 3 are coplanar (tetrahedral) in ZN_4418 Site: 
+REMARK     7
+REMARK     7 ZN Binding Site 6
+REMARK     7	Sr. No.	Chain Name	Residue Name	Residue No.	Atom Name
+REMARK     7	4419			B			ZN			1502			ZN
+REMARK     7	Coordination Number ZN: 4
+REMARK     7	ZN Binding Site of protein
+REMARK     7	Shape of the ZN Binding Site: tetrahedral
+REMARK     7
+REMARK     7
+REMARK     7	No Water Molecule Present in this ZN Site, Shape tetrahedral
+REMARK     7
+REMARK     7	Inner Coordinating Sphere for ZN_4419:
+REMARK     7	Direct Ligand Atoms for ZN_4419:
+REMARK     7	Molecule Type		Sr. No.	Chain Name	Residue Name		Residue Type	Residue No.	Atom Name		Distance from ZN
+REMARK     7 	amino_acid		2636			B			CYS			standard			974			SG		   2.326
+REMARK     7 	amino_acid		2977			B			CYS			standard			1017			SG		   2.379
+REMARK     7 	amino_acid		2724			B			CYS			standard			987			SG		   2.346
+REMARK     7 	amino_acid		3005			B			CYS			standard			1021			SG		   2.317
+
+REMARK     7	Inter-Atomic Distances in ZN_4419 Site:
+
+REMARK     7	In ZN (Distance of, Shape tetrahedral)_4419, SG_2636 to SG_2977:    3.822
+REMARK     7	In ZN (Distance of, Shape tetrahedral)_4419, SG_2636 to SG_2724:    3.910
+REMARK     7	In ZN (Distance of, Shape tetrahedral)_4419, SG_2636 to SG_3005:    3.683
+REMARK     7	In ZN (Distance of, Shape tetrahedral)_4419, SG_2977 to SG_2724:    3.940
+REMARK     7	In ZN (Distance of, Shape tetrahedral)_4419, SG_2977 to SG_3005:    4.034
+REMARK     7	In ZN (Distance of, Shape tetrahedral)_4419, SG_2724 to SG_3005:    3.518
+
+REMARK     7	In ZN (Mean Inter-Atomic Distance, Shape tetrahedral)_4419:    3.818
+
+REMARK     7	Angles Between Two Atoms Made with Metal in ZN_4419 Site:
+
+REMARK     7	In ZN (Angle Between, Shape tetrahedral)_4419, SG_2636 and SG_2977 with ZN_4419:  108.597
+REMARK     7	In ZN (Angle Between, Shape tetrahedral)_4419, SG_2636 and SG_2724 with ZN_4419:  113.568
+REMARK     7	In ZN (Angle Between, Shape tetrahedral)_4419, SG_2636 and SG_3005 with ZN_4419:  104.908
+REMARK     7	In ZN (Angle Between, Shape tetrahedral)_4419, SG_2977 and SG_2724 with ZN_4419:  112.933
+REMARK     7	In ZN (Angle Between, Shape tetrahedral)_4419, SG_2977 and SG_3005 with ZN_4419:  118.321
+REMARK     7	In ZN (Angle Between, Shape tetrahedral)_4419, SG_2724 and SG_3005 with ZN_4419:   97.886
+
+REMARK     7	In ZN (Mean Angle Atom-ZN-Atom, Shape tetrahedral)_4419:  109.369
+
+REMARK     7	No Atoms More than 3 are coplanar (tetrahedral) in ZN_4419 Site: 
+REMARK     8
+REMARK     8 ZN Binding Site 7
+REMARK     8	Sr. No.	Chain Name	Residue Name	Residue No.	Atom Name
+REMARK     8	4420			B			ZN			1503			ZN
+REMARK     8	Coordination Number ZN: 4
+REMARK     8	ZN Binding Site of protein
+REMARK     8	Shape of the ZN Binding Site: tetrahedral
+REMARK     8
+REMARK     8
+REMARK     8	No Water Molecule Present in this ZN Site, Shape tetrahedral
+REMARK     8
+REMARK     8	Inner Coordinating Sphere for ZN_4420:
+REMARK     8	Direct Ligand Atoms for ZN_4420:
+REMARK     8	Molecule Type		Sr. No.	Chain Name	Residue Name		Residue Type	Residue No.	Atom Name		Distance from ZN
+REMARK     8 	amino_acid		2649			B			CYS			standard			976			SG		   2.235
+REMARK     8 	amino_acid		2710			B			CYS			standard			985			SG		   2.322
+REMARK     8 	amino_acid		2678			B			CYS			standard			980			SG		   2.402
+REMARK     8 	amino_acid		2636			B			CYS			standard			974			SG		   2.377
+
+REMARK     8	Inter-Atomic Distances in ZN_4420 Site:
+
+REMARK     8	In ZN (Distance of, Shape tetrahedral)_4420, SG_2649 to SG_2710:    3.711
+REMARK     8	In ZN (Distance of, Shape tetrahedral)_4420, SG_2649 to SG_2678:    3.691
+REMARK     8	In ZN (Distance of, Shape tetrahedral)_4420, SG_2649 to SG_2636:    3.757
+REMARK     8	In ZN (Distance of, Shape tetrahedral)_4420, SG_2710 to SG_2678:    4.024
+REMARK     8	In ZN (Distance of, Shape tetrahedral)_4420, SG_2710 to SG_2636:    3.872
+REMARK     8	In ZN (Distance of, Shape tetrahedral)_4420, SG_2678 to SG_2636:    3.798
+
+REMARK     8	In ZN (Mean Inter-Atomic Distance, Shape tetrahedral)_4420:    3.809
+
+REMARK     8	Angles Between Two Atoms Made with Metal in ZN_4420 Site:
+
+REMARK     8	In ZN (Angle Between, Shape tetrahedral)_4420, SG_2649 and SG_2710 with ZN_4420:  108.962
+REMARK     8	In ZN (Angle Between, Shape tetrahedral)_4420, SG_2649 and SG_2678 with ZN_4420:  105.386
+REMARK     8	In ZN (Angle Between, Shape tetrahedral)_4420, SG_2649 and SG_2636 with ZN_4420:  109.000
+REMARK     8	In ZN (Angle Between, Shape tetrahedral)_4420, SG_2710 and SG_2678 with ZN_4420:  116.756
+REMARK     8	In ZN (Angle Between, Shape tetrahedral)_4420, SG_2710 and SG_2636 with ZN_4420:  110.917
+REMARK     8	In ZN (Angle Between, Shape tetrahedral)_4420, SG_2678 and SG_2636 with ZN_4420:  105.211
+
+REMARK     8	In ZN (Mean Angle Atom-ZN-Atom, Shape tetrahedral)_4420:  109.372
+
+REMARK     8	No Atoms More than 3 are coplanar (tetrahedral) in ZN_4420 Site: 
+REMARK     9
+REMARK     9 ZN Binding Site 8
+REMARK     9	Sr. No.	Chain Name	Residue Name	Residue No.	Atom Name
+REMARK     9	4421			B			ZN			1504			ZN
+REMARK     9	Coordination Number ZN: 4
+REMARK     9	ZN Binding Site of protein
+REMARK     9	Shape of the ZN Binding Site: tetrahedral
+REMARK     9
+REMARK     9
+REMARK     9	No Water Molecule Present in this ZN Site, Shape tetrahedral
+REMARK     9
+REMARK     9	Inner Coordinating Sphere for ZN_4421:
+REMARK     9	Direct Ligand Atoms for ZN_4421:
+REMARK     9	Molecule Type		Sr. No.	Chain Name	Residue Name		Residue Type	Residue No.	Atom Name		Distance from ZN
+REMARK     9 	amino_acid		3742			B			CYS			standard			1115			SG		   2.422
+REMARK     9 	amino_acid		4245			B			CYS			standard			1175			SG		   2.217
+REMARK     9 	amino_acid		4211			B			CYS			standard			1170			SG		   2.361
+REMARK     9 	amino_acid		4196			B			CYS			standard			1168			SG		   2.294
+
+REMARK     9	Inter-Atomic Distances in ZN_4421 Site:
+
+REMARK     9	In ZN (Distance of, Shape tetrahedral)_4421, SG_3742 to SG_4245:    3.681
+REMARK     9	In ZN (Distance of, Shape tetrahedral)_4421, SG_3742 to SG_4211:    3.924
+REMARK     9	In ZN (Distance of, Shape tetrahedral)_4421, SG_3742 to SG_4196:    3.935
+REMARK     9	In ZN (Distance of, Shape tetrahedral)_4421, SG_4245 to SG_4211:    3.810
+REMARK     9	In ZN (Distance of, Shape tetrahedral)_4421, SG_4245 to SG_4196:    3.688
+REMARK     9	In ZN (Distance of, Shape tetrahedral)_4421, SG_4211 to SG_4196:    3.728
+
+REMARK     9	In ZN (Mean Inter-Atomic Distance, Shape tetrahedral)_4421:    3.794
+
+REMARK     9	Angles Between Two Atoms Made with Metal in ZN_4421 Site:
+
+REMARK     9	In ZN (Angle Between, Shape tetrahedral)_4421, SG_3742 and SG_4245 with ZN_4421:  104.925
+REMARK     9	In ZN (Angle Between, Shape tetrahedral)_4421, SG_3742 and SG_4211 with ZN_4421:  110.216
+REMARK     9	In ZN (Angle Between, Shape tetrahedral)_4421, SG_3742 and SG_4196 with ZN_4421:  113.025
+REMARK     9	In ZN (Angle Between, Shape tetrahedral)_4421, SG_4245 and SG_4211 with ZN_4421:  112.589
+REMARK     9	In ZN (Angle Between, Shape tetrahedral)_4421, SG_4245 and SG_4196 with ZN_4421:  109.590
+REMARK     9	In ZN (Angle Between, Shape tetrahedral)_4421, SG_4211 and SG_4196 with ZN_4421:  106.365
+
+REMARK     9	In ZN (Mean Angle Atom-ZN-Atom, Shape tetrahedral)_4421:  109.452
+
+REMARK     9	No Atoms More than 3 are coplanar (tetrahedral) in ZN_4421 Site: 

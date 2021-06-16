@@ -1,0 +1,119 @@
+HEADER     PROGRAM NAME: StructureDeviation   VERSION: 1.1
+TITLE      Deviation Report for Computation of Structural Deviations of Two ZN ION Binding Sites
+REMARK     1
+REMARK     1  Standard Tetrahedron:                   
+REMARK     1  Molecule Type of Standard Tetrahedron: protein
+REMARK     1  Circumcentre of transformed tetrahedron: (-0.000, -0.000, -0.000)          
+REMARK     1  Circumradius of transformed tetrahedron: 1.993
+REMARK     1  Distance between circumcentre & metal ion: 0.080       
+REMARK     1  Distance between Centre of Mass & metal ion: 0.080       
+REMARK     1
+REMARK     1  Distances of Atoms from Circumcentre of Tetrahedron:
+DISTCR 3160    1.993
+DISTCR 3172    1.993
+DISTCR 3266    1.993
+DISTCR 3343    1.993
+REMARK     1  Distances of Atoms-Atoms:                         
+DISTRR 3160 3172    3.213
+DISTRR 3160 3266    3.354
+DISTRR 3160 3343    3.343
+DISTRR 3172 3266    3.298
+DISTRR 3172 3343    2.922
+DISTRR 3266 3343    3.320
+REMARK     1  Angles made by two atoms with Circumcentre of Tetrahedron:
+ANGLEC 3160 3172  107.389
+ANGLEC 3160 3266  114.583
+ANGLEC 3160 3343  113.988
+ANGLEC 3172 3266  111.655
+ANGLEC 3172 3343   94.255
+ANGLEC 3266 3343  112.763
+REMARK     1  Angles made by two atoms with another atom of Tetrahedron:
+ANGLEV 3172 3160 3266   60.227
+ANGLEV 3172 3160 3343   52.865
+ANGLEV 3266 3160 3343   59.403
+ANGLEV 3160 3172 3266   61.979
+ANGLEV 3160 3172 3343   65.822
+ANGLEV 3266 3172 3343   64.154
+ANGLEV 3160 3266 3172   57.721
+ANGLEV 3160 3266 3343   60.094
+ANGLEV 3172 3266 3343   52.375
+ANGLEV 3160 3343 3172   61.240
+ANGLEV 3160 3343 3266   60.430
+ANGLEV 3172 3343 3266   63.399
+REMARK     2
+REMARK     2  Comparable Tetrahedron:
+REMARK     1  Molecule Type of Comparable Tetrahedron: protein
+REMARK     2  Circumcentre of transformed tetrahedron: (-0.000, 0.000, -0.000)   
+REMARK     2  Circumradius of transformed tetrahedron: 2.369
+REMARK     2  Binding Atoms of Comparable Site are Far Apart as Compared to Standard Site
+REMARK     2  Size of This Site is Larger than the Standard Site
+REMARK     2  Distance between Circumcentre & Metal ion: 0.099
+REMARK     2  Distance between Centre of Mass & metal ion: 42.045       
+REMARK     2  Distances of Atoms from  Circumcentre of Tetrahedron:
+DISTCR 491    2.369
+DISTCR 449    2.369
+DISTCR 462    2.369
+DISTCR 523    2.369
+REMARK     2  Distances of Atoms from  Metal Ion:
+REMARK     2  Distances of Atoms-Atoms:
+DISTRR 491 449    3.820
+DISTRR 491 462    3.774
+DISTRR 491 523    4.105
+DISTRR 449 462    3.797
+DISTRR 449 523    3.872
+DISTRR 462 523    3.800
+REMARK     2  Angles made by two atoms with  Circumcentre of Tetrahedron:
+ANGLEC 491 449  107.420
+ANGLEC 491 462  105.566
+ANGLEC 491 523  120.067
+ANGLEC 449 462  106.494
+ANGLEC 449 523  109.600
+ANGLEC 462 523  106.624
+REMARK     2  Angles made by two atoms with  another atom of Tetrahedron:
+ANGLEV 449 491 462   59.975
+ANGLEV 449 491 523   58.344
+ANGLEV 462 491 523   57.464
+ANGLEV 491 449 462   59.377
+ANGLEV 491 449 523   64.481
+ANGLEV 462 449 523   59.372
+ANGLEV 491 462 449   60.575
+ANGLEV 491 462 523   65.615
+ANGLEV 449 462 523   61.265
+ANGLEV 491 523 449   57.102
+ANGLEV 491 523 462   56.848
+ANGLEV 449 523 462   59.290
+REMARK     3
+REMARK     3  Deviation Results of Comparable Tetrahedron from Standard Tetrahedron:
+REMARK     3  Distance Differences between Circumcentre & metal ion ZN: 0.000  
+REMARK     3  Distance Differences from Circumcentre to any Atom ZN: -0.376  
+REMARK     3  RMSE for Distance Deviation from Circumcentre to any Atom ZN: 0.376   
+REMARK     3  Distance Differences of Atoms-Atoms: 
+REMARK     3  SIDE 1: 2.881    
+REMARK     3  SIDE 2: 5.383    
+REMARK     3  SIDE 3: 5.431    
+REMARK     3  SIDE 4: 0.140    
+REMARK     3  SIDE 5: 4.744    
+REMARK     3  SIDE 6: 3.123    
+REMARK     3  RMSE for Atom-Atom Distance ZN: 2.032   
+REMARK     3  Differences of Angles Between Two Atoms with Circumcentre:
+REMARK     3  Angle 1: -0.031   
+REMARK     3  Angle 2: 9.017   
+REMARK     3  Angle 3: -6.078   
+REMARK     3  Angle 4: 5.161   
+REMARK     3  Angle 5: -15.345   
+REMARK     3  Angle 6: 6.139   
+REMARK     3  RMSE for Angle Differences CC ZN: 4.174   
+REMARK     3  Differences of Angles Between Two Atoms with Another:
+REMARK     3  Angle 1: 0.252   
+REMARK     3  Angle 2: -5.479   
+REMARK     3  Angle 3: 1.939   
+REMARK     3  Angle 4: 2.602   
+REMARK     3  Angle 5: 1.341   
+REMARK     3  Angle 6: 4.783   
+REMARK     3  Angle 7: -2.854   
+REMARK     3  Angle 8: -5.521   
+REMARK     3  Angle 9: -8.891   
+REMARK     3  Angle 10: 4.138   
+REMARK     3  Angle 11: 3.582   
+REMARK     3  Angle 12: 4.108   
+REMARK     3  RMSE for Angle Differences AA ZN: 2.188   

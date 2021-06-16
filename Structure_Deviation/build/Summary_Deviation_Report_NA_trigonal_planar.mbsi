@@ -1,0 +1,36 @@
+HEADER     PROGRAM NAME: StructureDeviation VERSION: 1.1
+TITLE      Summary Report for Computation of Structural Deviations of Two Trigonal Planar NA Binding Sites with Coordination Number 3
+REMARK     1
+REMARK     1  No. of Trigonal Planar Sites Compared with Standard NA ION: 1
+REMARK     2  No Such Site Exists whose Binding Atoms are Nearer to Binding Atoms of Standard Site
+REMARK     2
+REMARK     2  No. of Trigonal Planar Sites whose Binding Atoms are Far Apart as Compared to Standard Site: 1
+REMARK     2  Name of Proteins: 2a2a 
+REMARK     2 Max. Far_Apart Molecule Type: protein; No. of Such Sites: 1
+REMARK     2  No Such Site Exists  whose Size is Larger than the Standard Site
+REMARK     2
+REMARK     2  No. of Trigonal Planar Sites whose Size is Smaller than the Standard Site: 1
+REMARK     2  Name of Proteins: 2a2a 
+REMARK     2 Max. Smaller Molecule Type: protein; No. of Such Sites: 1
+REMARK     2  No Such Site Exists  whose Size is Same as that of the Standard Site
+REMARK     3
+REMARK     3  Average Deviation of Distance from Circumcentre to Any Atom:   -0.352
+REMARK     3         Average MSE Distance CC:    0.352
+REMARK     3
+REMARK     3  Average Deviation of Distances of Atom-to-Atom:                         
+Side 1:    0.844
+Side 2:    6.199
+Side 3:    0.213
+REMARK     3         Average MSE Distance AA:    1.807
+REMARK     3
+REMARK     3  Average  Deviation of Angles Made by Two Atoms with Circumcentre:                         
+Angle 1:  -43.789
+Angle 2:   41.308
+Angle 3:    2.481
+REMARK     3         Average MSE Angle CC:   17.392
+REMARK     3
+REMARK     3  Average  Deviation of Angles of Made by Two Atoms with Another Atom:                         
+Angle 1:   20.654
+Angle 2:    1.240
+Angle 3:  -21.894
+REMARK     3         Average MSE Angle AA:    8.696

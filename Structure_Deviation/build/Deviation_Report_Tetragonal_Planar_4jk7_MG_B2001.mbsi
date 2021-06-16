@@ -1,0 +1,44 @@
+HEADER     PROGRAM NAME: StructureDeviation VERSION: 1.1
+TITLE      Deviation Report for Computation of Structural Deviations of Two Tetragonal Planar MG ION Binding Sites
+REMARK     1
+REMARK     1  Standard Tetragonal Planar:                   
+REMARK     1  Molecule Type of Standard Tetragonal Planar: protein
+REMARK     1
+REMARK     1  Distances of Atoms-Atoms:                         
+DISTRR 2009 4300    3.119
+DISTRR 4300 4299    2.725
+DISTRR 4299 4410    2.576
+DISTRR 4410 2009    2.652
+REMARK     1  Angles made by two atoms with another atom of Tetragonal Planar:
+ANGLEV 4300 2009 4410   85.632
+ANGLEV 2009 4300 4299   82.537
+ANGLEV 4300 4299 4410   95.883
+ANGLEV 2009 4410 4299   95.372
+REMARK     2
+REMARK     2  Comparable Triangle:
+REMARK     1  Molecule Type of Comparable Tetragonal Planar: protein
+REMARK     2  Size of This Site is same as that of the Standard Site
+REMARK     2  Inter-atomic Distances and Angles:
+REMARK     2  Distances of Atoms-Atoms:
+DISTRR 4300 4299    2.725
+DISTRR 4299 4410    2.576
+DISTRR 4410 2009    2.652
+DISTRR 2009 4300    3.119
+REMARK     2  Angles made by two atoms with  another atom of Tetragonal Planar:
+ANGLEV 4299 4300 2009   82.537
+ANGLEV 4300 4299 4410   95.883
+ANGLEV 4299 4410 2009   95.372
+ANGLEV 4300 2009 4410   85.632
+REMARK     3
+REMARK     3  Distance Differences of Atoms-Atoms: 
+REMARK     3  SIDE 1: 0.000    
+REMARK     3  SIDE 2: 0.000    
+REMARK     3  SIDE 3: 0.000    
+REMARK     3  SIDE 4: 0.000    
+REMARK     3  RMSE for Atom-Atom Distance MG: 0.000   
+REMARK     3  Differences of Angles Between Two Atoms with Another:
+REMARK     3  Angle 1: 0.000   
+REMARK     3  Angle 2: 0.000   
+REMARK     3  Angle 3: 0.000   
+REMARK     3  Angle 4: 0.000   
+REMARK     3  RMSE for Angle Differences AA MG: 0.000   

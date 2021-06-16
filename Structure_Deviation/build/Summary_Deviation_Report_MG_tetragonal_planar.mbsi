@@ -1,0 +1,25 @@
+HEADER     PROGRAM NAME: StructureDeviation VERSION: 1.1
+TITLE      Summary Report for Computation of Structural Deviations of Two Tetragonal Planar MG Binding Sites with Coordination Number 3
+REMARK     1
+REMARK     1  No. of Tetragonal Planar Sites Compared with Standard MG ION: 1
+REMARK     2  No Such Site Exists  whose Size is Larger than the Standard Site
+REMARK     2  No Such Site Exists  whose Size is Smaller than the Standard Site
+REMARK     2
+REMARK     2  No. of Tetragonal Planar Sites whose Size is Same as that of the Standard Site: 1
+REMARK     2  Name of Proteins: 4jk7 
+REMARK     2 Same Molecule Type: protein; No. of Such Sites: 1
+REMARK     2  No Such Site Exists  whose Size is Irregular in comparison to the Standard Site
+REMARK     3
+REMARK     3  Average Deviation of Distances of Atom-to-Atom:                         
+Side 1:    0.000
+Side 2:    0.000
+Side 3:    0.000
+Side 4:    0.000
+REMARK     3         Average MSE Distance AA:    0.000
+REMARK     3
+REMARK     3  Average  Deviation of Angles of Made by Two Atoms with Another Atom:                         
+Angle 1:    0.000
+Angle 2:    0.000
+Angle 3:    0.000
+Angle 4:    0.000
+REMARK     3         Average MSE Angle AA:    0.000

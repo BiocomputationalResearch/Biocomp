@@ -1,0 +1,24 @@
+
+HETATM15475    O HOH A1107      23.326  90.322  55.907  1.00 23.83           O  
+HETATM15392    O HOH A1029      26.273  89.578  55.748  1.00 22.03           O  
+ATOM    953   OG SER A 117      27.007  92.891  54.445  1.00 19.83           O  
+HETATM15316    O HOH A 956      24.892  91.388  52.766  1.00 20.67           O  
+HETATM15396    O HOH A1033      25.501  92.253  57.771  1.00 24.19           O  
+CONECT1547515392                                                                
+CONECT1539215475                                                                
+CONECT15392  953                                                                
+CONECT  95315392                                                                
+CONECT  95315475                                                                
+CONECT15475  953                                                                
+CONECT1531615475                                                                
+CONECT1547515316                                                                
+CONECT1531615392                                                                
+CONECT1539215316                                                                
+CONECT15316  953                                                                
+CONECT  95315316                                                                
+CONECT1539615475                                                                
+CONECT1547515396                                                                
+CONECT1539615392                                                                
+CONECT1539215396                                                                
+CONECT15396  953                                                                
+CONECT  95315396                                                                

@@ -1,0 +1,24 @@
+
+HETATM 6013    O HOH C2397      54.686  65.640   5.507  1.00 33.03           O  
+HETATM 5688    O HOH C2072      52.640  67.472   5.910  1.00 27.15           O  
+HETATM 5785    O HOH C2169      54.499  69.836   5.774  1.00 20.75           O  
+HETATM 6041    O HOH C2425      53.373  68.310   4.151  1.00 27.30           O  
+HETATM 5865    O HOH C2249      54.646  67.437   7.801  1.00 25.22           O  
+CONECT 6013 5688                                                                
+CONECT 5688 6013                                                                
+CONECT 5688 5785                                                                
+CONECT 5785 5688                                                                
+CONECT 5785 6013                                                                
+CONECT 6013 5785                                                                
+CONECT 6041 6013                                                                
+CONECT 6013 6041                                                                
+CONECT 6041 5688                                                                
+CONECT 5688 6041                                                                
+CONECT 6041 5785                                                                
+CONECT 5785 6041                                                                
+CONECT 5865 6013                                                                
+CONECT 6013 5865                                                                
+CONECT 5865 5688                                                                
+CONECT 5688 5865                                                                
+CONECT 5865 5785                                                                
+CONECT 5785 5865                                                                

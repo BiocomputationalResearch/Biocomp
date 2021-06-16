@@ -1,0 +1,29 @@
+
+HETATM16446    O HOH C 974      -8.734   0.476 -16.797  1.00 33.09           O  
+ATOM   7473  OD1 ASN C  14      -6.903  -1.325 -14.835  1.00 19.32           O  
+ATOM   8060    O ILE C  84      -4.003   0.249 -16.301  1.00 11.37           O  
+HETATM16464    O HOH C 990      -6.177   1.993 -18.350  1.00 18.76           O  
+HETATM16441    O HOH C 970      -5.863  -1.201 -18.475  1.00 22.65           O  
+HETATM16267    O HOH C 814      -6.485   2.420 -15.049  1.00 13.60           O  
+CONECT16446 7473                                                                
+CONECT 747316446                                                                
+CONECT 7473 8060                                                                
+CONECT 8060 7473                                                                
+CONECT 806016464                                                                
+CONECT16464 8060                                                                
+CONECT1646416446                                                                
+CONECT1644616464                                                                
+CONECT1644116446                                                                
+CONECT16441 7473                                                                
+CONECT 747316441                                                                
+CONECT16441 8060                                                                
+CONECT 806016441                                                                
+CONECT1644116464                                                                
+CONECT1646416441                                                                
+CONECT1626716446                                                                
+CONECT1644616267                                                                
+CONECT16267 7473                                                                
+CONECT16267 8060                                                                
+CONECT 806016267                                                                
+CONECT1626716464                                                                
+CONECT1646416267                                                                
