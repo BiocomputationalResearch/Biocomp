@@ -2,7 +2,7 @@
 // Name        : Structure_Deviation.cpp
 // Author      : Parthajit Roy and Swati Adhikari
 // Version     : 1.1
-// Copyright   : Any software that uses our code must abide by terms of the GNU Public License version 2 and must refer our papers 'A Geometry Based Algorithm for Comparison of Tetrahedral Metal Binding Sites' and 'Algorithms to compare some metal binding sites'
+// Copyright   : Any software that uses our code must abide by terms of the GNU Public License version 2
 // Description : Provide threshold value for number of each metals in an input file that can be processed with -M option and provide input file in .pdb/.cif format while executing the program
 //====================================================================================================================================================================================================================================================================
 
